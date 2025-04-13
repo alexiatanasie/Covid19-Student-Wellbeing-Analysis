@@ -18,3 +18,5 @@ This repository contains an aggregated data analysis project based on a 2020 sur
 - Correlation between social media usage and class experience
 - Age group distribution and sleep habits
 - Visualization: Boxplots, Bar Charts
+
+# SOFTWARE PACKAGES essay 2025
