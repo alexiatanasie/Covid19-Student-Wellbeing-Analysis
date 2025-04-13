@@ -1,0 +1,1183 @@
+﻿ID,Region of residence,Age of Subject,Time spent on Online Class,Rating of Online Class experience,Medium for online class,Time spent on self study,Time spent on fitness,Time spent on sleep,Time spent on social media,Prefered social media platform,Time spent on TV,Number of meals per day,Change in your weight,Health issue during lockdown,Time utilized,"Do you find yourself more connected with your family, close friends , relatives  ?"
+R1,Delhi-NCR,21,2,Good,Laptop/Desktop,4,0,7,3,Linkedin,1,4,Increased,NO,YES,YES
+R2,Delhi-NCR,21,0,Excellent,Smartphone,0,2,10,3,Youtube,0,3,Decreased,NO,YES,NO
+R3,Delhi-NCR,20,7,Very poor,Laptop/Desktop,3,0,6,2,Linkedin,0,3,Remain Constant,NO,NO,YES
+R4,Delhi-NCR,20,3,Very poor,Smartphone,2,1,6,5,Instagram,0,3,Decreased,NO,NO,NO
+R5,Delhi-NCR,21,3,Good,Laptop/Desktop,3,1,8,3,Instagram,1,4,Remain Constant,NO,NO,NO
+R6,Delhi-NCR,21,0,Very poor,Smartphone,6,0,5,1,Youtube,0,1,Decreased,YES,NO,YES
+R7,Delhi-NCR,19,2,Very poor,Smartphone,2,1,5,4,Instagram,0,3,Increased,NO,NO,YES
+R8,Outside Delhi-NCR,19,2,Very poor,Tablet,1,1,10,5,Instagram,0,3,Increased,YES,NO,YES
+R9,Delhi-NCR,21,3,Very poor,Laptop/Desktop,4,1,8,2,Whatsapp,1,3,Increased,NO,NO,NO
+R10,Outside Delhi-NCR,20,0,Very poor,Laptop/Desktop,1,0.5,8,5,Instagram,3,3,Decreased,YES,NO,NO
+R11,Delhi-NCR,21,3,Good,Laptop/Desktop,3,1,8,3,Instagram,1,4,Remain Constant,NO,NO,NO
+R12,Delhi-NCR,21,1,Very poor,Laptop/Desktop,0,1,7,3,Instagram,1,2,Increased,YES,YES,YES
+R13,Delhi-NCR,21,3,Average,Laptop/Desktop,0,0,8,3,Instagram,0,3,Increased,YES,NO,NO
+R14,Outside Delhi-NCR,22,1,Good,Laptop/Desktop,2,0,7,0,None,0.5,2,Increased,NO,YES,YES
+R15,Delhi-NCR,20,5,Very poor,Laptop/Desktop,1,0,8,3,Instagram,0,3,Remain Constant,NO,NO,NO
+R16,Delhi-NCR,22,3,Average,Smartphone,3,1,6,2,Instagram,1,3,Increased,NO,YES,YES
+R17,Outside Delhi-NCR,20,0,Good,Smartphone,0,0,8,2,Reddit,1,3,Increased,NO,NO,YES
+R18,Delhi-NCR,20,1,Very poor,Smartphone,2,1,8,1,Youtube,0,3,Remain Constant,NO,NO,NO
+R19,Delhi-NCR,21,0,Very poor,Laptop/Desktop,4,0,7,7,Youtube,n,2,Remain Constant,NO,NO,NO
+R20,Delhi-NCR,22,5,Very poor,Smartphone,2,1,8,4,Instagram,0,3,Increased,NO,YES,YES
+R21,Delhi-NCR,20,4,Excellent,Laptop/Desktop,5,0,6,2,Linkedin,1,2,Decreased,NO,YES,YES
+R22,Delhi-NCR,21,5,Average,Laptop/Desktop,2,1,10,5,Instagram,2,3,Remain Constant,NO,YES,NO
+R23,Delhi-NCR,21,4,Very poor,Smartphone,1,0,8,6,Instagram,1,4,Decreased,NO,NO,YES
+R24,Delhi-NCR,21,4,Average,Laptop/Desktop,2,1,7,1,Linkedin,0,3,Decreased,NO,YES,YES
+R25,Delhi-NCR,20,3,Very poor,Smartphone,4,2,9,2,Instagram,1,3,Decreased,NO,YES,NO
+R26,Delhi-NCR,20,5,Very poor,Smartphone,2,0,9,5,Linkedin,3,2,Increased,NO,YES,YES
+R27,Delhi-NCR,21,4,Very poor,Laptop/Desktop,5,0,8,3,Instagram,0,2,Increased,YES,NO,YES
+R28,Delhi-NCR,20,3,Very poor,Laptop/Desktop,6,0,9,2,Whatsapp,0,2,Remain Constant,NO,NO,NO
+R29,Delhi-NCR,31,8,Average,Laptop/Desktop,4,1,6,2,Linkedin,0.5,3,Remain Constant,NO,YES,YES
+R30,Delhi-NCR,22,4,Very poor,Smartphone,6,1,5,3,Youtube,0,4,Remain Constant,NO,NO,NO
+R31,Delhi-NCR,19,4,Very poor,Smartphone,5,1,7,2,Whatsapp,1,2,Decreased,YES,YES,YES
+R32,Delhi-NCR,23,4,Excellent,Laptop/Desktop,18,1,8,2,Snapchat,0,2,Decreased,NO,YES,YES
+R33,Delhi-NCR,21,0,Very poor,NA,5,2,4,2,Omegle,0,3,Remain Constant,NO,YES,NO
+R34,Delhi-NCR,22,5,Very poor,Laptop/Desktop,1,0,6,2,Linkedin,0.5,3,Decreased,YES,YES,YES
+R35,Delhi-NCR,20,0,NA,NA,6,1,6,5,Instagram,0,4,Increased,NO,YES,NO
+R36,Outside Delhi-NCR,21,6,Average,Smartphone,2,1,8,3,Instagram,1,3,Remain Constant,NO,NO,YES
+R37,Delhi-NCR,17,4,Very poor,Laptop/Desktop,1,1,7,1.5,Instagram,0,3,Decreased,NO,NO,YES
+R38,Outside Delhi-NCR,20,4,Average,Laptop/Desktop,2,0,8,2,Instagram,0,3,Increased,NO,NO,YES
+R39,Outside Delhi-NCR,22,1,Very poor,Smartphone,2,0.5,8,2,Linkedin,2,3,Increased,NO,NO,YES
+R40,Delhi-NCR,20,0,NA,NA,8,0,8,0,Youtube,0,3,Increased,NO,NO,YES
+R41,Delhi-NCR,24,4,Good,Laptop/Desktop,4,2,6,4,Youtube,0,4,Increased,NO,YES,YES
+R42,Outside Delhi-NCR,21,0,Very poor,Laptop/Desktop,0,0,10,8,Youtube,1,4,Remain Constant,NO,YES,NO
+R43,Delhi-NCR,20,7,Very poor,Smartphone,2,1,8,2,Whatsapp,2,4,Remain Constant,YES,NO,NO
+R44,Delhi-NCR,21,5,Very poor,Laptop/Desktop,3,1,8,1,Instagram,0,2,Increased,NO,NO,NO
+R45,Delhi-NCR,18,2,Average,Smartphone,2,3,12,1,Linkedin,0,4,Remain Constant,NO,NO,NO
+R46,Delhi-NCR,22,3,Very poor,Laptop/Desktop,2,0,8,1,Instagram,0,4,Increased,NO,NO,YES
+R47,Delhi-NCR,20,2,Very poor,Smartphone,6,2,7,1,Instagram,3,6,Decreased,NO,YES,NO
+R48,Delhi-NCR,20,2,Very poor,Smartphone,3,0,6,2,Youtube,0,3,Decreased,YES,NO,NO
+R49,Delhi-NCR,21,3,Very poor,Laptop/Desktop,4,2,8,2,Twitter,0,4,Increased,NO,YES,YES
+R50,Delhi-NCR,18,4,Good,Laptop/Desktop,2,0,8,4,Instagram,0,3,Remain Constant,NO,YES,YES
+R51,Delhi-NCR,19,0,Very poor,Smartphone,1,0,8,2,Youtube,2,3,Remain Constant,YES,NO,YES
+R52,Delhi-NCR,20,5,Average,Laptop/Desktop,6,1,7,2,Whatsapp,0,3,Remain Constant,NO,NO,YES
+R53,Delhi-NCR,21,3,Average,Laptop/Desktop,17,0,5,1,Youtube,0,3,Increased,NO,NO,NO
+R54,Delhi-NCR,19,0,Average,Smartphone,2,2,10,1,Instagram,0.5,4,Remain Constant,NO,YES,YES
+R55,Delhi-NCR,21,4,Average,Smartphone,4,1,8,2,Youtube,2,4,Remain Constant,NO,YES,YES
+R56,Delhi-NCR,19,4,Very poor,Smartphone,2,0,7,1,Whatsapp,0,3,Increased,YES,YES,YES
+R57,Delhi-NCR,19,2,Very poor,Smartphone,2,2,8,1,Youtube,0,4,Increased,NO,NO,YES
+R58,Delhi-NCR,18,1,Very poor,Smartphone,8,0,8,5,Youtube,2,3,Increased,NO,YES,YES
+R59,Delhi-NCR,20,5,Average,Laptop/Desktop,1,1,7,1,Whatsapp,0,3,Increased,YES,NO,YES
+R60,Delhi-NCR,21,0,Very poor,Smartphone,5,0,8,1,Instagram,1,3,Remain Constant,NO,YES,NO
+R61,Delhi-NCR,22,6,Very poor,Laptop/Desktop,6,0,6,1,Instagram,0,2,Increased,NO,YES,NO
+R62,Delhi-NCR,20,3,Very poor,Laptop/Desktop,6,1,8,1,Instagram,2,4,Increased,NO,YES,YES
+R63,Delhi-NCR,18,0,Very poor,Laptop/Desktop,2,1,6,5,Instagram,0,1,Remain Constant,NO,NO,YES
+R64,Delhi-NCR,20,2,Very poor,Laptop/Desktop,0,1,8,2,Instagram,0,3,Increased,NO,NO,YES
+R65,Delhi-NCR,23,2,Very poor,Smartphone,1,1,7,5,Instagram,1,4,Decreased,NO,YES,YES
+R66,Delhi-NCR,20,4,Average,Smartphone,4,2,7,2,Instagram,1,3,Increased,NO,NO,YES
+R67,Outside Delhi-NCR,19,0,NA,NA,0,2,6,4,Instagram,0.5,3,Remain Constant,NO,NO,YES
+R68,Delhi-NCR,18,3,Average,Smartphone,1,1,8,3,Whatsapp,0.5,4,Remain Constant,NO,YES,YES
+R69,Delhi-NCR,20,1.5,Very poor,Smartphone,3,2,9,1,Youtube,1,2,Decreased,YES,NO,YES
+R70,Delhi-NCR,19,2,Very poor,Tablet,2,1,8,5,Instagram,0,4,Decreased,NO,NO,YES
+R71,Outside Delhi-NCR,20,2,Very poor,Smartphone,3,1,6,2,Instagram,1,4,Increased,NO,NO,NO
+R72,Delhi-NCR,22,6,Very poor,Smartphone,4,0,7,2,Whatsapp,0,1,Increased,NO,NO,NO
+R73,Delhi-NCR,20,2,Very poor,Smartphone,2,0,7,3,Whatsapp,2,2,Remain Constant,NO,NO,NO
+R74,Delhi-NCR,19,1,Average,Laptop/Desktop,0.5,1,7,5,Instagram,2,3,Remain Constant,NO,NO,YES
+R75,Delhi-NCR,18,3,Very poor,Smartphone,2,2,8,8,Instagram,0,4,Remain Constant,NO,NO,YES
+R76,Outside Delhi-NCR,19,3,Average,Smartphone,5,0,5,4,Telegram,0,2,Increased,YES,YES,NO
+R77,Delhi-NCR,19,0,Very poor,Smartphone,1,1,8,2,Instagram,0,3,Decreased,NO,YES,YES
+R78,Delhi-NCR,20,3,Average,Laptop/Desktop,3,0,10,10,Facebook,4.5,3,Increased,NO,NO,NO
+R79,Delhi-NCR,20,3,Excellent,Laptop/Desktop,0,1,8,5,Youtube,1,3,Increased,NO,NO,YES
+R80,Delhi-NCR,19,1,Good,Laptop/Desktop,4,0,8,2,None,0,4,Increased,NO,YES,YES
+R81,Delhi-NCR,21,5,Average,Laptop/Desktop,5,0,8,7,Instagram,1,2,Increased,YES,NO,YES
+R82,Delhi-NCR,21,3,Good,Smartphone,2,1,10,1,Youtube,0,3,Remain Constant,NO,NO,NO
+R83,Delhi-NCR,19,2,Very poor,Smartphone,2,0.5,9,3,Instagram,1,2,Increased,NO,YES,YES
+R84,Delhi-NCR,20,0,Very poor,Laptop/Desktop,1,1,12,2,Instagram,2,2,Increased,NO,NO,YES
+R85,Outside Delhi-NCR,21,1,Poor,Smartphone,8,0,10,1,Whatsapp,0,3,Decreased,NO,YES,YES
+R86,Delhi-NCR,19,2,Very poor,Tablet,2,1,8,5,Instagram,0,4,Decreased,NO,NO,YES
+R87,Delhi-NCR,20,5,Average,Smartphone,3,1,7,1.5,Instagram,0,3,Increased,YES,YES,YES
+R88,Outside Delhi-NCR,21,4,Very poor,Smartphone,3,1,8,1,Linkedin,0,3,Decreased,NO,NO,NO
+R89,Delhi-NCR,18,3,Very poor,Smartphone,4,1,7,1,Whatsapp,0,4,Remain Constant,YES,NO,NO
+R90,Outside Delhi-NCR,19,4,Average,Smartphone,3,1,7,3,Instagram,2,3,Increased,NO,YES,YES
+R91,Outside Delhi-NCR,25,4,Very poor,Smartphone,3,1,7,1,Instagram,0,3,Remain Constant,YES,NO,NO
+R92,Delhi-NCR,19,0,Very poor,Smartphone,4,1,8,1,Whatsapp,0,3,Increased,NO,NO,YES
+R93,Delhi-NCR,19,4,Very poor,Laptop/Desktop,0,0,8,2,Instagram,1.5,3,Increased,YES,NO,NO
+R94,Delhi-NCR,20,4,Good,Smartphone,2,2,8,6,Instagram,0,3,Decreased,NO,YES,YES
+R95,Delhi-NCR,20,2,Average,Smartphone,3,1,5,4,Instagram,1,3,Increased,NO,NO,YES
+R96,Delhi-NCR,19,5,Good,Tablet,3,1,8,2,Snapchat,0,2,Remain Constant,NO,NO,YES
+R97,Delhi-NCR,19,3,Average,Smartphone,1,0,10,4,Whatsapp,0,3,Remain Constant,NO,NO,YES
+R98,Delhi-NCR,22,2,Average,Smartphone,0,0,12,4,Instagram,2,3,Increased,NO,NO,YES
+R99,Outside Delhi-NCR,21,1,Good,Smartphone,3,2,10,1,Youtube,2,4,Increased,YES,NO,YES
+R100,Delhi-NCR,21,1,Very poor,Smartphone,2,1,8,1,Whatsapp,0,3,Increased,NO,NO,NO
+R101,Outside Delhi-NCR,16,6,Poor,Smartphone,2,2,7,2,Youtube,1,3,Remain Constant,NO,YES,YES
+R102,Outside Delhi-NCR,21,3,Average,Laptop/Desktop,5,0,8,7,Linkedin,1,2,Remain Constant,NO,NO,YES
+R103,Outside Delhi-NCR,21,4,Very poor,Smartphone,4,1,7,1,Whatsapp,0,4,Decreased,YES,YES,NO
+R104,Outside Delhi-NCR,16,3,Very poor,Smartphone,3,1,7,3,Youtube,1,2,Remain Constant,NO,NO,NO
+R105,Delhi-NCR,21,2,Very poor,Smartphone,7,2,8,0.5,Instagram,0,5,Increased,NO,YES,YES
+R106,Outside Delhi-NCR,23,4,Excellent,Laptop/Desktop,6,1,8,0.3,Whatsapp,0,3,Increased,NO,YES,NO
+R107,Delhi-NCR,19,2,Very poor,Smartphone,1.5,1,7,2,Youtube,N,2,Remain Constant,NO,NO,NO
+R108,Delhi-NCR,20,1,Very poor,Smartphone,2,1,8,1,Instagram,0,3,Increased,NO,NO,NO
+R109,Delhi-NCR,18,2,Very poor,Smartphone,3,1,8,1,Instagram,1,3,Decreased,NO,YES,YES
+R110,Outside Delhi-NCR,10,3,Good,Tablet,3,0,10,1,Youtube,4,3,Remain Constant,NO,YES,NO
+R111,Outside Delhi-NCR,20,0,Very poor,Smartphone,2,2,8,0.15,Linkedin,0.3,2,Decreased,NO,YES,YES
+R112,Delhi-NCR,21,3,Average,Smartphone,3,0,11,2,Whatsapp,N,2,Increased,YES,NO,YES
+R113,Delhi-NCR,19,1,Very poor,Smartphone,4,1,8,1,Youtube,0,4,Remain Constant,NO,NO,YES
+R114,Outside Delhi-NCR,14,5,Average,Laptop/Desktop,4,1,7,4,Instagram,1,5,Increased,NO,NO,NO
+R115,Delhi-NCR,18,2,Very poor,Smartphone,3,1,10,2,Whatsapp,0,3,Remain Constant,NO,NO,YES
+R116,Delhi-NCR,18,3,Very poor,Smartphone,6,0,7,3,Youtube,1,3,Remain Constant,NO,YES,NO
+R117,Outside Delhi-NCR,24,4,Excellent,Laptop/Desktop,8,1,8,2,Youtube,2,3,Increased,NO,YES,YES
+R118,Outside Delhi-NCR,14,3,Good,Smartphone,5,1,12,0.3,Instagram,1,3,Remain Constant,NO,YES,YES
+R119,Outside Delhi-NCR,21,4,Good,Laptop/Desktop,2,2,7,2,Instagram,1,3,Increased,NO,YES,YES
+R120,Delhi-NCR,19,2,Average,Smartphone,6,1,6,1,Instagram,0,3,Increased,NO,NO,YES
+R121,Delhi-NCR,18,2.5,Average,Smartphone,2,1,8,1,Youtube,0,4,Remain Constant,NO,NO,YES
+R122,Outside Delhi-NCR,23,6,Average,Laptop/Desktop,5,1,6,1,Linkedin,0,3,Remain Constant,NO,YES,YES
+R123,Outside Delhi-NCR,21,4,Average,Smartphone,4,1,8,1,Youtube,0,3,Remain Constant,NO,YES,YES
+R124,Delhi-NCR,18,5,Very poor,Smartphone,3,0,9,7,Whatsapp,0,3,Increased,NO,YES,NO
+R125,Delhi-NCR,19,1,Very poor,Smartphone,2,0,7,1,Whatsapp,0,2,Increased,YES,NO,NO
+R126,Outside Delhi-NCR,20,5,Average,Smartphone,4,1,7,2,Whatsapp,1,3,Increased,NO,YES,YES
+R127,Delhi-NCR,20,2,Average,Smartphone,3,0.5,6.5,1,Whatsapp,0.5,3,Remain Constant,NO,YES,YES
+R128,Delhi-NCR,19,2,Very poor,Smartphone,4,1,8,2,Youtube,0,4,Decreased,NO,NO,NO
+R129,Outside Delhi-NCR,15,1,Good,Smartphone,3,1,6,4,Whatsapp,1.5,4,Increased,NO,YES,YES
+R130,Delhi-NCR,19,0,NA,NA,1,3,8,5,Instagram,1,1,Decreased,NO,NO,YES
+R131,Outside Delhi-NCR,20,3,Very poor,Smartphone,3,0,9,2,Youtube,2,2,Decreased,NO,YES,YES
+R132,Delhi-NCR,17,6,Average,Laptop/Desktop,4,1,8,1,Youtube,1,2,Remain Constant,NO,NO,YES
+R133,Delhi-NCR,18,2,Very poor,Smartphone,2,1,9,2,Linkedin,2,2,Increased,NO,YES,YES
+R134,Delhi-NCR,20,2,Very poor,Smartphone,4,0,10,4,Whatsapp,2,3,Decreased,NO,NO,YES
+R135,Delhi-NCR,18,5,Average,Smartphone,1,1,8,1,Youtube,0,4,Increased,NO,YES,YES
+R136,Delhi-NCR,22,0.1,Poor,Smartphone,2.5,1,12,0.3,Youtube,0,5,Increased,NO,NO,YES
+R137,Delhi-NCR,18,3,Very poor,Smartphone,5,1,7,2,Youtube,0,3,Remain Constant,NO,NO,YES
+R138,Delhi-NCR,15,4,Average,Smartphone,2,0.5,6,1,Whatsapp,1,3,Remain Constant,NO,NO,YES
+R139,Outside Delhi-NCR,22,1,Very poor,Laptop/Desktop,10,1,7,1,Whatsapp,0,3,Remain Constant,NO,YES,YES
+R140,Delhi-NCR,19,3,Very poor,Laptop/Desktop,2,1,9,1,Youtube,0,3,Decreased,NO,NO,YES
+R141,Delhi-NCR,20,3,Very poor,Smartphone,5,0,7,2,Instagram,1,2,Remain Constant,YES,YES,YES
+R142,Outside Delhi-NCR,20,3,Very poor,Smartphone,3,0,9,2,Youtube,2,2,Decreased,NO,YES,YES
+R143,Delhi-NCR,20,1,Very poor,Smartphone,1,0,6,0,None,0,2,Increased,NO,YES,YES
+R144,Delhi-NCR,18,2,Poor,Smartphone,6,1,7,1,Youtube,1,2,Increased,NO,YES,YES
+R145,Delhi-NCR,19,2,Very poor,Smartphone,2,2,8,2,Youtube,3,2,Increased,NO,YES,YES
+R146,Outside Delhi-NCR,14,4,Average,Smartphone,2,1,8,2,Whatsapp,1,3,Remain Constant,NO,YES,NO
+R147,Delhi-NCR,20,6,Average,Laptop/Desktop,1,1,6,1,Linkedin,0,3,Increased,YES,YES,YES
+R148,Delhi-NCR,20,3,Average,Laptop/Desktop,2,1,8,2,Linkedin,2,3,Remain Constant,NO,NO,NO
+R149,Delhi-NCR,19,6,Very poor,Smartphone,3,0,7,2,Whatsapp,0.5,2,Increased,YES,NO,YES
+R150,Delhi-NCR,19,1,Average,Laptop/Desktop,1,1,10,1,Instagram,0,3,Remain Constant,NO,YES,YES
+R151,Delhi-NCR,18,2,Very poor,Smartphone,2,1,10,2,Whatsapp,0,3,Remain Constant,NO,NO,NO
+R152,Outside Delhi-NCR,21,4,Very poor,Smartphone,4,1,8,2,Instagram,0,3,Increased,NO,NO,YES
+R153,Outside Delhi-NCR,15,4,Average,Smartphone,7,2,6,1,Instagram,1,4,Remain Constant,NO,YES,YES
+R154,Delhi-NCR,20,5,Very poor,Tablet,3,1,8,2,Whatsapp,3,4,Increased,NO,NO,NO
+R155,Outside Delhi-NCR,21,1,Very poor,Smartphone,3,0,6,1,Instagram,1,1,Decreased,YES,NO,YES
+R156,Delhi-NCR,19,0.5,Very poor,Smartphone,7,2,7,0.1,Instagram,0,4,Remain Constant,YES,YES,YES
+R157,Delhi-NCR,20,3,Very poor,Laptop/Desktop,1,0,6,2,Facebook,0,2,Increased,NO,NO,YES
+R158,Delhi-NCR,21,5,Average,Smartphone,1,0,5,1,Whatsapp,0,2,Decreased,NO,NO,NO
+R159,Delhi-NCR,21,4,Excellent,Laptop/Desktop,6,2,6,1,Youtube,1,3,Remain Constant,NO,YES,YES
+R160,Delhi-NCR,21,3,Very poor,Smartphone,2,0,7,2,Twitter,0,3,Increased,YES,NO,YES
+R161,Delhi-NCR,20,4,Average,Laptop/Desktop,2,0,7,2,Snapchat,4,3,Increased,NO,NO,NO
+R162,Outside Delhi-NCR,20,6,Very poor,Smartphone,3,0,8,4,Linkedin,2,3,Increased,YES,NO,YES
+R163,Outside Delhi-NCR,23,0,Very poor,Laptop/Desktop,1,0,10,4,Linkedin,0,4,Increased,NO,NO,YES
+R164,Outside Delhi-NCR,21,4,Very poor,Smartphone,3,1,8,1,Youtube,1,3,Remain Constant,YES,NO,YES
+R165,Delhi-NCR,22,1,Very poor,Smartphone,4,1,7,2,Linkedin,0,2,Increased,YES,NO,NO
+R166,Delhi-NCR,23,3,Good,Tablet,0,0,12,4,Instagram,0,2,Increased,NO,NO,NO
+R167,Delhi-NCR,22,4,Good,Smartphone,4,0.5,8,2,Whatsapp,0,3,Increased,NO,YES,NO
+R168,Outside Delhi-NCR,21,0,Very poor,Smartphone,1,0,7,10,Whatsapp,0,7,Increased,NO,NO,YES
+R169,Outside Delhi-NCR,20,0,Very poor,Smartphone,3,2,12,1,Instagram,0,3,Increased,NO,NO,NO
+R170,Outside Delhi-NCR,15,4,Average,Smartphone,2,3,7,1,Instagram,2,4,Increased,NO,NO,YES
+R171,Outside Delhi-NCR,20,0,Very poor,Smartphone,3,2,8,2,Whatsapp,1,3,Remain Constant,YES,YES,YES
+R172,Outside Delhi-NCR,20,0,Very poor,Smartphone,1,0,8,0.5,Whatsapp,1,3,Decreased,YES,NO,YES
+R173,Outside Delhi-NCR,16,4,Excellent,Laptop/Desktop,3,2,10,1,Youtube,1,3,Increased,NO,YES,YES
+R174,Outside Delhi-NCR,22,1,Average,Smartphone,3,1,7,1,Whatsapp,0,3,Remain Constant,NO,NO,YES
+R175,Delhi-NCR,20,5,Average,Laptop/Desktop,4,0,10,2,Linkedin,4,3,Decreased,NO,YES,YES
+R176,Outside Delhi-NCR,21,0,Good,Smartphone,4,1,8,2,Instagram,0,2,Decreased,YES,YES,YES
+R177,Outside Delhi-NCR,34,3,Good,Laptop/Desktop,3,1,7,1,Whatsapp,2,3,Remain Constant,NO,YES,YES
+R178,Outside Delhi-NCR,22,0,Average,Laptop/Desktop,3,1,9,0,Telegram,2,5,Decreased,NO,NO,YES
+R179,Delhi-NCR,22,6,Good,Laptop/Desktop,2,1,8,4,Instagram,0,4,Remain Constant,NO,NO,YES
+R180,Outside Delhi-NCR,21,1,Average,Laptop/Desktop,1,2,7,2,Youtube,1,4,Increased,NO,NO,YES
+R181,Outside Delhi-NCR,20,1,Very poor,Smartphone,2,1,8,3,Whatsapp,0,3,Remain Constant,NO,YES,NO
+R182,Outside Delhi-NCR,21,3,Average,Smartphone,0.5,3,6,2,Instagram,0,3,Remain Constant,NO,YES,YES
+R183,Outside Delhi-NCR,19,2,Very poor,Smartphone,2,1,8,2,Instagram,2,3,Increased,YES,YES,YES
+R184,Outside Delhi-NCR,22,1,Very poor,Smartphone,7,0,7,1,Facebook,0,3,Remain Constant,NO,YES,YES
+R185,Outside Delhi-NCR,20,3,Very poor,Laptop/Desktop,1.5,1,6,2,Reddit,1.5,2,Decreased,YES,NO,NO
+R186,Outside Delhi-NCR,14,4,Very poor,Smartphone,1,0,9,1.5,Whatsapp,5,3,Remain Constant,NO,NO,YES
+R187,Delhi-NCR,22,1,Average,Smartphone,4,0.5,11,1,Instagram,0,3,Remain Constant,YES,NO,NO
+R188,Outside Delhi-NCR,22,2,Average,Laptop/Desktop,5,0,8,3,Instagram,1,3,Increased,NO,YES,YES
+R189,Delhi-NCR,19,2,Poor,Smartphone,10,0.25,8,2,Instagram,0,3,Increased,NO,YES,YES
+R190,Outside Delhi-NCR,21,1,Average,Smartphone,0,1,6,2,Whatsapp,0,2,Decreased,NO,NO,YES
+R191,Outside Delhi-NCR,15,5,Average,Smartphone,5,0,7,3,Instagram,2,3,Remain Constant,NO,NO,YES
+R192,Outside Delhi-NCR,21,3,Good,Laptop/Desktop,3,0.5,8,4,Youtube,0,3,Remain Constant,NO,NO,YES
+R193,Delhi-NCR,21,3,Very poor,Smartphone,8,3,7,3,Youtube,0,3,Decreased,YES,NO,NO
+R194,Outside Delhi-NCR,34,3,Average,Laptop/Desktop,3,1,8,1,Whatsapp,1,3,Remain Constant,NO,YES,YES
+R195,Outside Delhi-NCR,22,3,Very poor,Laptop/Desktop,0,5,8,10,Twitter,No tv,3,Remain Constant,NO,NO,YES
+R196,Outside Delhi-NCR,34,1.5,Poor,Laptop/Desktop,1,0,6,1,Linkedin,0,2,Remain Constant,YES,NO,NO
+R197,Delhi-NCR,21,4,Good,Laptop/Desktop,4,1,7,2,Instagram,2,3,Remain Constant,NO,YES,YES
+R198,Outside Delhi-NCR,20,3,Average,Laptop/Desktop,3,1,7,1,Instagram,0,3,Remain Constant,NO,YES,YES
+R199,Outside Delhi-NCR,20,3,Very poor,Laptop/Desktop,5,0,7.5,2,Whatsapp,0.5,4,Increased,NO,YES,NO
+R200,Outside Delhi-NCR,25,2,Very poor,Laptop/Desktop,3,1,8,4,Facebook,1,2,Increased,NO,NO,NO
+R201,Outside Delhi-NCR,19,0.5,Very poor,Smartphone,3,1,8,1,Instagram,0,2,Remain Constant,NO,YES,YES
+R202,Delhi-NCR,26,5,Average,Laptop/Desktop,10,1,8,1,Youtube,0.5,2,Remain Constant,NO,YES,YES
+R203,Outside Delhi-NCR,20,3,Good,Laptop/Desktop,4,0,8,2,Youtube,0,3,Remain Constant,NO,YES,YES
+R204,Delhi-NCR,24,7,Very poor,Laptop/Desktop,7,2,7,2,Youtube,0,3,Remain Constant,NO,YES,YES
+R205,Delhi-NCR,21,0,Very poor,Laptop/Desktop,0,2,12,6,Facebook,0,4,Increased,NO,NO,NO
+R206,Delhi-NCR,20,5,Good,Smartphone,2.5,1,9,3,Instagram,0.5,2,Remain Constant,NO,YES,YES
+R207,Delhi-NCR,16,7,Average,Tablet,4,1,7,1,Whatsapp,0,3,Remain Constant,NO,YES,YES
+R208,Delhi-NCR,17,6,Average,Laptop/Desktop,1,0,7,2,Reddit,0,2,Remain Constant,NO,YES,NO
+R209,Delhi-NCR,59,3,Average,Smartphone,6,1,9,0.5,Whatsapp,1,2,Increased,NO,YES,YES
+R210,Delhi-NCR,17,7,Good,Smartphone,4,0,7,1,Whatsapp,1,2,Increased,NO,YES,NO
+R211,Delhi-NCR,16,6,Very poor,Smartphone,5,0,7,2,Youtube,0,3,Increased,NO,NO,YES
+R212,Outside Delhi-NCR,20,3,Average,Laptop/Desktop,4,1,7,2,Linkedin,2,3,Remain Constant,NO,YES,NO
+R214,Delhi-NCR,17,6,Very poor,Smartphone,1.5,2,7,2,Instagram,0.5,4,Increased,NO,YES,NO
+R215,Delhi-NCR,17,6,Average,Laptop/Desktop,5,0.5,7,1,Whatsapp,1,2,Remain Constant,NO,NO,NO
+R216,Delhi-NCR,20,3,Good,Laptop/Desktop,4,0,7,4,Whatsapp,0,2,Remain Constant,YES,YES,YES
+R217,Outside Delhi-NCR,17,6,Average,Tablet,2,1,7,1,Whatsapp,1,4,Remain Constant,NO,NO,YES
+R218,Delhi-NCR,20,4,Very poor,Smartphone,2,0,7,0.5,Whatsapp,0.5,3,Increased,NO,NO,NO
+R219,Outside Delhi-NCR,16,8,Good,Laptop/Desktop,7,0,6,1,Whatsapp,0.5,3,Remain Constant,NO,NO,NO
+R220,Delhi-NCR,19,0.5,Very poor,Smartphone,5,0.5,10,1,Whatsapp,1,2,Remain Constant,YES,YES,NO
+R221,Delhi-NCR,20,0,Very poor,Laptop/Desktop,2,0,10,3,Instagram,2,4,Increased,NO,NO,YES
+R222,Outside Delhi-NCR,22,4,Average,Laptop/Desktop,3,1,8,3,Whatsapp,0,4,Increased,NO,YES,NO
+R223,Outside Delhi-NCR,17,9,Poor,Laptop/Desktop,3,0,5,0.5,Instagram,1,3,Remain Constant,NO,NO,NO
+R224,Delhi-NCR,23,1,Very poor,Smartphone,8,2,8,2,Instagram,2,3,Decreased,NO,YES,YES
+R225,Outside Delhi-NCR,22,0,Very poor,Laptop/Desktop,3,0,10,8,Instagram,0,2,Increased,YES,YES,YES
+R226,Delhi-NCR,22,1.5,Average,Laptop/Desktop,0,0,9,6,Instagram,2,3,Increased,NO,YES,YES
+R227,Outside Delhi-NCR,19,2,Very poor,Smartphone,2,1,8,2,Whatsapp,1,3,Decreased,YES,NO,YES
+R228,Delhi-NCR,19,2,Very poor,Smartphone,5,1,9,2,Twitter,0,4,Remain Constant,NO,YES,NO
+R229,Outside Delhi-NCR,23,1,Very poor,Laptop/Desktop,1,0,8,5,Whatsapp,0,4,Increased,NO,NO,YES
+R230,Outside Delhi-NCR,32,4,Good,Laptop/Desktop,5,2,5,3,Facebook,0,3,Remain Constant,NO,YES,YES
+R231,Delhi-NCR,17,6,Average,Smartphone,12,1,8,2,Whatsapp,3,4,Remain Constant,NO,NO,NO
+R232,Delhi-NCR,21,0,NA,NA,10,1,5,0.5,Linkedin,0,4,Remain Constant,NO,NO,NO
+R233,Delhi-NCR,22,4,Average,Laptop/Desktop,3,2,8,2,Whatsapp,0.5,4,Increased,NO,YES,YES
+R234,Outside Delhi-NCR,17,6,Very poor,Any Gadget,4,2.5,8,0.5,Instagram,0,3,Remain Constant,NO,YES,YES
+R235,Outside Delhi-NCR,17,5,Average,Laptop/Desktop,1.5,2,8,1,Youtube,3,3,Decreased,NO,YES,YES
+R236,Delhi-NCR,22,5,Good,Laptop/Desktop,10,1,6,1,Elyment,0,3,Remain Constant,YES,YES,YES
+R237,Outside Delhi-NCR,18,2,Very poor,Smartphone,2,2,9,4,Youtube,0,3,Increased,NO,NO,YES
+R238,Delhi-NCR,20,5,Very poor,Laptop/Desktop,12,0,7,1,Reddit,0,3,Increased,NO,NO,YES
+R239,Outside Delhi-NCR,30,3,Average,Smartphone,1,0.5,4,1,Whatsapp,0.5,2,Remain Constant,NO,YES,YES
+R240,Delhi-NCR,19,1,Average,Laptop/Desktop,1,0,8,1,Youtube,2,4,Remain Constant,NO,NO,NO
+R241,Outside Delhi-NCR,14,3,Good,Laptop/Desktop,2,0,8,1,Whatsapp,1,1,Increased,NO,YES,YES
+R242,Outside Delhi-NCR,19,0,NA,NA,2,1,8,4,Instagram,0,3,Remain Constant,NO,YES,YES
+R243,Outside Delhi-NCR,16,7,Average,Smartphone,3,2,11,1.5,Instagram,1,3,Decreased,YES,NO,YES
+R244,Delhi-NCR,17,6,Average,Smartphone,2,1,9,3,Instagram,0.5,3,Remain Constant,NO,NO,YES
+R245,Delhi-NCR,20,1,Very poor,Tablet,2,2,8,1,Youtube,0,2,Decreased,NO,NO,YES
+R246,Delhi-NCR,17,4,Good,Smartphone,2,0,7,3,Instagram,2,4,Increased,NO,YES,YES
+R247,Delhi-NCR,20,6,Average,Any Gadget,2,0,6,4,Instagram,0,3,Increased,NO,NO,NO
+R249,Outside Delhi-NCR,17,5,Average,Smartphone,4,2,7,2,Youtube,2,2,Increased,NO,NO,YES
+R250,Delhi-NCR,21,3,Very poor,Laptop/Desktop,2,0,7,2,Facebook,2,3,Remain Constant,NO,YES,NO
+R251,Delhi-NCR,16,4,Poor,Laptop/Desktop,0,0,9,1,Whatsapp,1,2,Remain Constant,NO,NO,YES
+R252,Delhi-NCR,21,5,Average,Smartphone,2,2,6,5,Instagram,0,3,Increased,NO,NO,YES
+R253,Delhi-NCR,18,0,NA,NA,8,0.5,5,3,Linkedin,1,3,Remain Constant,NO,YES,YES
+R254,Outside Delhi-NCR,20,4,Good,Laptop/Desktop,5,1,7,0.1,Whatsapp,0,4,Remain Constant,NO,NO,NO
+R255,Outside Delhi-NCR,14,4,Average,Smartphone,4,0,8,2,Instagram,2,3,Increased,NO,NO,YES
+R256,Delhi-NCR,19,3,Good,Laptop/Desktop,2,0,8,5,Youtube,1.5,3,Increased,NO,NO,YES
+R257,Delhi-NCR,18,0,Very poor,Laptop/Desktop,3,0,8,4,Facebook,1,3,Increased,NO,NO,YES
+R258,Outside Delhi-NCR,13,5,Very poor,Laptop/Desktop,4,1,8,10,Whatsapp,0,3,Decreased,NO,NO,NO
+R259,Outside Delhi-NCR,20,4,Very poor,Laptop/Desktop,8,0,6,1,Instagram,0,3,Decreased,NO,YES,YES
+R260,Outside Delhi-NCR,19,0,Very poor,Laptop/Desktop,4,0.3,8,2,Whatsapp,0,2,Remain Constant,NO,NO,NO
+R261,Outside Delhi-NCR,15,5,Average,Smartphone,1,0,7,1,Youtube,1.5,3,Remain Constant,NO,NO,YES
+R262,Outside Delhi-NCR,20,1,Very poor,Smartphone,0,0,10,5,Youtube,1,2,Increased,YES,NO,YES
+R263,Delhi-NCR,19,0,Very poor,Laptop/Desktop,1,0,8,4,Twitter,2,3,Increased,NO,NO,NO
+R264,Outside Delhi-NCR,21,3,Good,Laptop/Desktop,3,1,6,0.5,Whatsapp,0.5,2,Increased,YES,YES,NO
+R265,Outside Delhi-NCR,20,4,Very poor,Laptop/Desktop,2,1,8,4,Youtube,0,4,Increased,NO,NO,YES
+R266,Delhi-NCR,20,4,Good,Laptop/Desktop,5,1,6,2,Youtube,0.5,2,Remain Constant,NO,NO,YES
+R267,Outside Delhi-NCR,16,6,Good,Laptop/Desktop,3,0,7,1,Whatsapp,1,3,Remain Constant,NO,NO,NO
+R268,Delhi-NCR,21,2,Poor,Laptop/Desktop,2,1,5,3,Whatsapp,1,3,Remain Constant,NO,YES,YES
+R269,Delhi-NCR,17,5.5,Good,Smartphone,5,1,9,1,Youtube,1,3,Remain Constant,NO,NO,YES
+R270,Delhi-NCR,21,0,Average,Laptop/Desktop,12,0,7,3,Youtube,0,3,Remain Constant,NO,YES,YES
+R271,Delhi-NCR,20,0,Good,Smartphone,0,0,7.5,3.5,Youtube,2,3,Remain Constant,NO,YES,YES
+R272,Delhi-NCR,21,4,Average,Laptop/Desktop,2,1,8,3,Instagram,N,2,Remain Constant,NO,NO,NO
+R273,Delhi-NCR,20,3,Very poor,Smartphone,5,1,7,1,Whatsapp,0,3,Increased,NO,NO,YES
+R274,Outside Delhi-NCR,16,4,Poor,Smartphone or Laptop/Desktop,2.5,0.5,6,0.5,Whatsapp,1,3,Remain Constant,NO,YES,YES
+R275,Outside Delhi-NCR,19,0,Very poor,Laptop/Desktop,8,1,8,2,Whatsapp,0,2,Increased,YES,YES,YES
+R276,Delhi-NCR,19,1,Very poor,Laptop/Desktop,3,0,8,3,Instagram,3,3,Increased,YES,YES,YES
+R278,Outside Delhi-NCR,19,1,Excellent,Laptop/Desktop,1,3,9,2,Youtube,0,5,Remain Constant,NO,NO,YES
+R279,Delhi-NCR,20,2,Good,Laptop/Desktop,1,0,10,1,Whatsapp,0,2,Remain Constant,NO,NO,YES
+R280,Delhi-NCR,19,2,Average,Smartphone,3,1,9,3,Whatsapp,3,3,Increased,NO,NO,YES
+R281,Outside Delhi-NCR,17,7,Average,Laptop/Desktop,2,0,6,2,Youtube,2,2,Increased,NO,YES,YES
+R282,Delhi-NCR,21,0,Very poor,Laptop/Desktop,2,0,8,3,Whatsapp,5,3,Decreased,NO,NO,NO
+R283,Outside Delhi-NCR,17,6,Good,Smartphone,4,0,7,1,Whatsapp,2,3,Decreased,NO,YES,NO
+R285,Delhi-NCR,25,5,Average,Laptop/Desktop,6,0,8,1,Instagram,0,3,Remain Constant,NO,YES,NO
+R286,Delhi-NCR,19,3,Average,Laptop/Desktop,6,0.5,8,0.6,Linkedin,1.5,4,Increased,NO,YES,YES
+R287,Delhi-NCR,16,5,Very poor,Smartphone,2,1,8,2,Whatsapp,N,3,Increased,NO,NO,YES
+R288,Delhi-NCR,17,7,Good,Smartphone,5,0.5,7,2,Whatsapp,2,3,Increased,NO,NO,NO
+R289,Delhi-NCR,18,1,Average,Smartphone,2,0,10,1,Instagram,0.5,2,Remain Constant,NO,NO,NO
+R290,Outside Delhi-NCR,20,5,Excellent,Laptop/Desktop,1,1,8,3,Instagram,0,3,Remain Constant,NO,YES,NO
+R291,Delhi-NCR,20,3,Very poor,Laptop/Desktop,9,1,6,1,Whatsapp,0,1,Increased,NO,NO,YES
+R292,Delhi-NCR,20,1,Very poor,Laptop/Desktop,3,1,9,4,Instagram,0,2,Increased,NO,YES,YES
+R293,Delhi-NCR,22,3,Average,Smartphone,3,0,8,2,Instagram,1,3,Increased,NO,NO,NO
+R294,Outside Delhi-NCR,16,7,Excellent,Tablet,2,1,6,2,Whatsapp,0,3,Decreased,NO,YES,NO
+R295,Delhi-NCR,19,2,Very poor,Laptop/Desktop,1,1,7,5,Instagram,1,4,Remain Constant,NO,NO,YES
+R296,Outside Delhi-NCR,17,9,Average,Laptop/Desktop,5,1,6,1,Youtube,0,3,Decreased,NO,YES,NO
+R297,Outside Delhi-NCR,20,0,Average,Laptop/Desktop,1,0,9,5,Whatsapp,2,4,Remain Constant,YES,YES,YES
+R298,Delhi-NCR,21,0,Very poor,Laptop/Desktop,6,0,6,4,Youtube,2,3,Increased,NO,NO,YES
+R299,Outside Delhi-NCR,19,2,Very poor,Laptop/Desktop,3,1,8,1,Instagram,2,4,Remain Constant,NO,YES,YES
+R301,Delhi-NCR,17,8,Very poor,Smartphone,2,1,9,0,Whatsapp,0,3,Remain Constant,NO,NO,NO
+R302,Outside Delhi-NCR,25,1,Average,Laptop/Desktop,3,1,7,3,Whatsapp,2,3,Increased,NO,NO,YES
+R303,Delhi-NCR,20,3,Average,Smartphone,2,0.5,8,3,Whatsapp,0,3,Remain Constant,NO,NO,YES
+R304,Outside Delhi-NCR,21,0,Very poor,NA,1,0,10,3,Instagram,2,3,Remain Constant,NO,NO,NO
+R305,Outside Delhi-NCR,19,5,Excellent,Smartphone,5,1,7,2,Youtube,3,3,Increased,NO,NO,YES
+R306,Delhi-NCR,23,5,Average,Smartphone,5,1,8,1,Whatsapp,2,3,Remain Constant,NO,YES,YES
+R307,Outside Delhi-NCR,22,2,Average,Laptop/Desktop,8,1,8,2,Linkedin,1,2,Remain Constant,NO,YES,NO
+R308,Outside Delhi-NCR,22,4,Average,Laptop/Desktop,1,1,8,4,Youtube,1,3,Increased,NO,YES,NO
+R309,Outside Delhi-NCR,18,0,NA,NA,1,1,12,4,Instagram,0,3,Remain Constant,NO,YES,YES
+R310,Delhi-NCR,21,3,Average,Laptop/Desktop,3,2,6.5,2,Youtube,2,2,Increased,NO,NO,YES
+R311,Outside Delhi-NCR,22,1,Average,Smartphone,3,1,8,1,Instagram,0,2,Decreased,YES,NO,NO
+R312,Outside Delhi-NCR,24,3,Very poor,Laptop/Desktop,4,0,6,3,Whatsapp,4,3,Remain Constant,NO,NO,NO
+R313,Delhi-NCR,14,3,Average,Tablet,6,3,7,3,Instagram,1,2,Remain Constant,NO,YES,YES
+R314,Outside Delhi-NCR,16,4,Very poor,Smartphone,3,0,8,4,Youtube,0,4,Remain Constant,NO,YES,NO
+R315,Delhi-NCR,19,1,Average,Laptop/Desktop,3,2,7,1,Instagram,2,2,Remain Constant,YES,NO,NO
+R316,Outside Delhi-NCR,21,5,Very poor,Laptop/Desktop,3,2,10,6,Youtube,1,3,Increased,YES,YES,NO
+R317,Delhi-NCR,17,2,Average,Laptop/Desktop,5,0,8,4,Youtube,0,3,Remain Constant,NO,YES,NO
+R318,Delhi-NCR,16,4,Good,Smartphone,2,0.5,9,1,Instagram,0.1,3,Increased,NO,NO,YES
+R320,Delhi-NCR,29,8,Good,Laptop/Desktop,2,1,8,0.5,Instagram,2,4,Remain Constant,NO,NO,NO
+R321,Outside Delhi-NCR,26,1,Good,Laptop/Desktop,4,0,6,6,Facebook,4,3,Remain Constant,NO,NO,YES
+R322,Delhi-NCR,21,5,Very poor,Smartphone,2,1,12,2,Instagram,1,4,Increased,NO,YES,NO
+R323,Outside Delhi-NCR,18,0,Very poor,Smartphone,0,2,7,6,Instagram,0,4,Increased,NO,YES,YES
+R324,Delhi-NCR,19,3,Very poor,Smartphone,0,0,12,5,Instagram,0,3,Decreased,NO,NO,NO
+R325,Delhi-NCR,21,2,Average,Laptop/Desktop,2,1,10,2,Youtube,0.25,3,Remain Constant,NO,YES,NO
+R326,Delhi-NCR,12,1,Good,Laptop/Desktop,3,2,8,2,Youtube,1,4,Increased,NO,YES,YES
+R327,Delhi-NCR,26,0,Very poor,Smartphone,1,1,7,1,Whatsapp,2,2,Decreased,NO,NO,YES
+R328,Outside Delhi-NCR,20,6,Very poor,Laptop/Desktop,6,0,6,3,Whatsapp,0,4,Increased,NO,NO,YES
+R329,Delhi-NCR,16,4,Very poor,Smartphone,2,1,9,2,Youtube,1,2,Decreased,NO,NO,NO
+R330,Delhi-NCR,21,0,Average,Laptop/Desktop,2,0,10,5,Twitter,1,3,Increased,NO,YES,NO
+R331,Outside Delhi-NCR,21,5,Average,Laptop/Desktop,2,0,8,0.5,Whatsapp,1,2,Increased,NO,NO,YES
+R332,Delhi-NCR,20,6,Average,Laptop/Desktop,4,0,7,1,Linkedin,0,3,Increased,NO,YES,YES
+R333,Delhi-NCR,21,0,Very poor,Laptop/Desktop,2,1,7,1,Instagram,0,4,Remain Constant,YES,YES,NO
+R334,Outside Delhi-NCR,21,2,Average,Smartphone,2,1,7,1,Whatsapp,4,3,Remain Constant,NO,YES,NO
+R335,Delhi-NCR,19,1,Very poor,Laptop/Desktop,0,0,12,10,Instagram,2,2,Remain Constant,NO,NO,NO
+R336,Outside Delhi-NCR,21,2,Average,Laptop/Desktop,2,0,8,2,Instagram,1,3,Remain Constant,YES,NO,YES
+R337,Delhi-NCR,14,5,Average,Smartphone,2.3,0,8,2,Youtube,3,2,Remain Constant,NO,YES,YES
+R338,Delhi-NCR,22,1,Average,Laptop/Desktop,2,0,11,3,Whatsapp,3,2,Increased,YES,NO,NO
+R339,Delhi-NCR,19,2,Average,Smartphone,2.5,0,9,2,Facebook,1,3,Remain Constant,NO,NO,NO
+R340,Outside Delhi-NCR,18,4,Average,Smartphone,1,1,12,1,Instagram,1,2,Increased,NO,NO,YES
+R341,Outside Delhi-NCR,16,8,Average,Laptop/Desktop,6,0,6,1,Youtube,0,4,Remain Constant,NO,YES,NO
+R342,Outside Delhi-NCR,43,2,Average,Smartphone,0,1,6,2,Facebook,0.5,3,Increased,NO,NO,YES
+R343,Outside Delhi-NCR,15,4,Very poor,Tablet,10,0,8,1,Twitter,1,3,Remain Constant,NO,NO,YES
+R344,Outside Delhi-NCR,32,1,Very poor,Laptop/Desktop,10,1,8,2,Twitter,0,3,Increased,NO,YES,YES
+R345,Delhi-NCR,15,3,Good,Laptop/Desktop,3,1,7,1,Youtube,2,2,Increased,NO,YES,YES
+R346,Outside Delhi-NCR,22,0,NA,NA,5,1,7,2,Youtube,1,4,Increased,NO,NO,YES
+R347,Delhi-NCR,16,4,Average,NA,4,1,6,1,Whatsapp,1,3,Increased,NO,YES,YES
+R348,Outside Delhi-NCR,21,2,Very poor,NA,4,0,9,2,Whatsapp,0,4,Remain Constant,NO,NO,YES
+R349,Outside Delhi-NCR,14,5,Good,NA,2,1,9,1,Whatsapp,1,4,Increased,NO,NO,YES
+R350,Delhi-NCR,19,2,Very poor,NA,1,1,11,3,Whatsapp,0,2,Increased,NO,NO,NO
+R351,Outside Delhi-NCR,18,1.5,Average,NA,2,1,8,1,Whatsapp,0.5,2,Remain Constant,NO,YES,YES
+R352,Delhi-NCR,11,4,Average,NA,2,2,10,1,Whatsapp,3,4,Remain Constant,NO,NO,YES
+R353,Delhi-NCR,24,0.5,Average,NA,2,0,8,1,Instagram,0,3,Remain Constant,NO,YES,YES
+R354,Outside Delhi-NCR,21,3,Average,Laptop/Desktop,3,1,8,2,Instagram,0,3,Increased,NO,NO,YES
+R355,Delhi-NCR,15,5,Average,Smartphone,3,3,8,3,Instagram,2,3,Remain Constant,NO,YES,YES
+R356,Delhi-NCR,34,2,Average,Laptop/Desktop,3,1,7,2,Twitter,1,3,Remain Constant,NO,YES,YES
+R357,Delhi-NCR,17,0.75,Average,Smartphone,5,1,6,2,Youtube,2,1,Increased,YES,NO,YES
+R358,Delhi-NCR,12,1,Excellent,Smartphone,2,1,9,2,Youtube,1,3,Increased,NO,YES,YES
+R359,Delhi-NCR,16,1,Average,Smartphone,2,1,7,2,Whatsapp,3,3,Remain Constant,NO,NO,YES
+R360,Delhi-NCR,17,7,Average,Laptop/Desktop,8,1,6,1,Whatsapp,1,3,Increased,NO,YES,YES
+R361,Delhi-NCR,14,2.5,Good,Smartphone,1,0.5,6,2,Youtube,1,2,Decreased,NO,YES,YES
+R362,Outside Delhi-NCR,16,4,Average,Smartphone,5,1,6,2,Whatsapp,2,2,Remain Constant,NO,YES,NO
+R363,Delhi-NCR,13,2,Excellent,Smartphone,1,3,11,3,Youtube,2,4,Increased,NO,NO,YES
+R364,Delhi-NCR,23,0,Average,Laptop/Desktop,2,0,7,3,Linkedin,0,3,Remain Constant,NO,YES,NO
+R365,Delhi-NCR,21,6,Very poor,Smartphone,0,1,7,4,Instagram,1,4,Increased,NO,YES,YES
+R366,Outside Delhi-NCR,31,4,Excellent,Laptop/Desktop,2,1,8,1,Facebook,1,3,Increased,NO,YES,NO
+R367,Delhi-NCR,23,5,Excellent,Smartphone,1,1,9,2,Whatsapp,0,4,Decreased,NO,YES,YES
+R368,Delhi-NCR,13,1,Excellent,Smartphone,5,3,6,2,Instagram,2,7,Increased,NO,YES,YES
+R369,Delhi-NCR,21,3,Average,Laptop/Desktop,0,1,8,3,Instagram,0,3,Increased,YES,NO,NO
+R370,Delhi-NCR,17,6,Average,Laptop/Desktop,2.5,1,6,0,None,0.5,3,Remain Constant,NO,YES,YES
+R371,Delhi-NCR,23,3,Good,Laptop/Desktop,3,0,7,2,Linkedin,0,3,Remain Constant,NO,NO,YES
+R372,Delhi-NCR,13,1,Excellent,Smartphone,2,0,8,0,None,4,3,Increased,NO,YES,NO
+R373,Delhi-NCR,20,1,Average,Laptop/Desktop,2.5,0,6,4,Instagram,1,3,Remain Constant,NO,YES,YES
+R374,Delhi-NCR,13,0.5,Average,Smartphone,2,2,10,2,Youtube,0,3,Increased,NO,YES,NO
+R375,Delhi-NCR,14,2,Excellent,Smartphone,1,1,8,1,Whatsapp,2,1,Increased,YES,YES,YES
+R376,Delhi-NCR,40,1,Average,Laptop/Desktop,2,1,6,4,Whatsapp,0,2,Remain Constant,NO,NO,YES
+R377,Delhi-NCR,12,1,Excellent,Smartphone,1.2,0.5,10,0,Whatsapp,2,3,Increased,NO,YES,YES
+R378,Delhi-NCR,20,3,Very poor,Laptop/Desktop,2,1,8,4,Linkedin,0,3,Remain Constant,YES,NO,YES
+R379,Delhi-NCR,12,1,Good,Smartphone,2,0.5,8,2,Whatsapp,2,4,Remain Constant,NO,NO,YES
+R380,Delhi-NCR,21,3,Average,Laptop/Desktop,3,0,8,2,Instagram,0,4,Decreased,NO,NO,YES
+R381,Delhi-NCR,42,4,Good,Laptop/Desktop,3,0,7,1,Facebook,0.5,2,Increased,NO,YES,YES
+R382,Outside Delhi-NCR,20,3,Good,Smartphone,4,2,7,4,Whatsapp,0.5,4,Remain Constant,YES,NO,YES
+R383,Delhi-NCR,28,0,NA,NA,4,2,7,2,Twitter,2,2,Decreased,NO,YES,YES
+R384,Delhi-NCR,40,2,Good,NA,1,1,8,1,Whatsapp,1,2,Remain Constant,NO,YES,YES
+R385,Delhi-NCR,14,3,Excellent,NA,2,0,12,2,Facebook,3,1,Decreased,NO,NO,NO
+R386,Delhi-NCR,12,1,Average,NA,1,0,12,1,Youtube,1,1,Remain Constant,NO,NO,YES
+R387,Delhi-NCR,14,4,Average,NA,2,1,8,2,Whatsapp,1,3,Remain Constant,NO,YES,NO
+R388,Delhi-NCR,22,0,Average,NA,0,0,9,2,Linkedin,2,3,Remain Constant,NO,NO,NO
+R389,Outside Delhi-NCR,40,4,Average,NA,4,0,8,2,Whatsapp,1,3,Increased,NO,NO,YES
+R390,Outside Delhi-NCR,21,4,Very poor,NA,3,1,6,2,Youtube,5,2,Remain Constant,NO,NO,YES
+R391,Delhi-NCR,23,3,Good,Smartphone,1,0,6,2,Whatsapp,3,3,Remain Constant,NO,NO,YES
+R392,Delhi-NCR,12,2,Excellent,Smartphone,2,1,10,1,Youtube,1,4,Remain Constant,NO,YES,YES
+R393,Outside Delhi-NCR,17,2,Excellent,Smartphone,3,1,6,2,Whatsapp,2,1,Increased,NO,YES,YES
+R394,Outside Delhi-NCR,18,1,Average,Laptop/Desktop,1,0,8,4,Instagram,0,3,Decreased,NO,YES,YES
+R395,Outside Delhi-NCR,20,1,Average,Laptop/Desktop,2,2,9,4,Instagram,5,2,Remain Constant,NO,YES,NO
+R396,Outside Delhi-NCR,17,5,Average,Smartphone,3,1,6,1,Facebook,2,1,Remain Constant,NO,YES,YES
+R397,Delhi-NCR,20,1,Average,Laptop/Desktop,4,0,8,3,Instagram,0,3,Remain Constant,NO,NO,NO
+R398,Delhi-NCR,20,3,Very poor,Laptop/Desktop,4,1,8,2,Whatsapp,0.5,4,Remain Constant,NO,YES,YES
+R399,Delhi-NCR,19,0.75,Poor,Laptop/Desktop,2,1,6,4,Youtube,0,2,Remain Constant,NO,NO,YES
+R400,Outside Delhi-NCR,20,4,Good,Laptop/Desktop,2,0,11,1,Whatsapp,0,3,Increased,NO,NO,YES
+R401,Delhi-NCR,16,2,Excellent,Smartphone,5,1,8,4,Whatsapp,4,3,Increased,NO,YES,YES
+R402,Delhi-NCR,13,3,Excellent,Smartphone,2,0,8,1,Youtube,0,3,Remain Constant,NO,YES,YES
+R403,Delhi-NCR,20,0,Good,Laptop/Desktop,4,1,7,4,Youtube,2,3,Remain Constant,YES,NO,YES
+R404,Outside Delhi-NCR,14,3,Excellent,Smartphone,2,0,10,1,Youtube,1,2,Remain Constant,NO,NO,YES
+R405,Delhi-NCR,17,2,Good,Smartphone,1,1,8,3,Facebook,2,3,Decreased,NO,YES,YES
+R406,Outside Delhi-NCR,20,1,Very poor,Laptop/Desktop,1,0,12,2,Twitter,1,3,Increased,NO,NO,YES
+R407,Delhi-NCR,17,7,Excellent,Smartphone,1,1,4,1,Youtube,0,1,Decreased,NO,YES,YES
+R408,Outside Delhi-NCR,13,2,Excellent,Smartphone,1,1,6,2,Whatsapp,0,1,Decreased,YES,YES,YES
+R409,Delhi-NCR,13,1,Good,Smartphone,2,1,8,3,Youtube,0.5,3,Remain Constant,NO,YES,YES
+R410,Outside Delhi-NCR,20,2,Very poor,Laptop/Desktop,4,1,8,2,Instagram,0,3,Remain Constant,NO,YES,YES
+R411,Outside Delhi-NCR,27,0,Good,Laptop/Desktop,2,0,10,6,Whatsapp,6,3,Decreased,NO,NO,YES
+R412,Delhi-NCR,20,1,Good,Laptop/Desktop,0,1,7,2,Instagram,0,3,Decreased,NO,YES,NO
+R413,Delhi-NCR,20,5,Very poor,Laptop/Desktop,3,1,7,4,Twitter,0,3,Decreased,NO,YES,YES
+R414,Delhi-NCR,17,4,Average,Smartphone,1,1,8,5,Youtube,0.3,2,Increased,NO,NO,YES
+R415,Delhi-NCR,27,3,Excellent,Laptop/Desktop,2,2,7,1,Instagram,0,3,Decreased,YES,YES,YES
+R416,Outside Delhi-NCR,14,1,Good,Smartphone,3,1,9,1,None,0,3,Increased,NO,YES,YES
+R417,Delhi-NCR,9,1,Average,Laptop/Desktop,1,0,8,0,Youtube,1,3,Increased,NO,NO,NO
+R418,Delhi-NCR,14,5,Average,Smartphone,1,1,7,1,Whatsapp,4.5,2,Decreased,NO,NO,YES
+R419,Delhi-NCR,36,2,Excellent,Tablet,3,1,7,5,Youtube,3,3,Increased,NO,NO,YES
+R420,Delhi-NCR,8,2,Excellent,Laptop/Desktop,2,1,8,1,Whatsapp,2,3,Remain Constant,NO,YES,YES
+R421,Delhi-NCR,20,2,Average,Laptop/Desktop,1,1,7,1,Whatsapp,1,2,Remain Constant,NO,YES,YES
+R422,Outside Delhi-NCR,12,2,Average,Laptop/Desktop,1,1,7,2,Instagram,2,2,Increased,NO,YES,YES
+R423,Delhi-NCR,19,8,Excellent,Laptop/Desktop,10,1,6,1,Linkedin,0,4,Remain Constant,NO,YES,YES
+R424,Outside Delhi-NCR,24,0,Excellent,Laptop/Desktop,3,1,8,3,Instagram,0,3,Decreased,NO,YES,NO
+R425,Delhi-NCR,20,2,Average,Laptop/Desktop,2,2,8,3,Instagram,0,3,Remain Constant,NO,YES,YES
+R426,Delhi-NCR,22,1,Very poor,Smartphone,3,0,7,3,Youtube,2,3,Remain Constant,NO,NO,YES
+R427,Outside Delhi-NCR,20,3,Very poor,Laptop/Desktop,0,1,9,4,Youtube,4,4,Decreased,NO,NO,YES
+R428,Delhi-NCR,12,1,Excellent,Smartphone,3,1,6,1,Youtube,1,1,Remain Constant,NO,NO,YES
+R429,Outside Delhi-NCR,21,0,Very poor,Laptop/Desktop,1,0,6,6,Instagram,1,3,Remain Constant,YES,NO,NO
+R430,Delhi-NCR,20,2,Average,Laptop/Desktop,3,2,7,3,Instagram,1,2,Decreased,NO,YES,YES
+R431,Outside Delhi-NCR,32,1,Average,Smartphone,0,0,14,2,Facebook,2,3,Remain Constant,NO,NO,YES
+R432,Outside Delhi-NCR,28,4,Good,Laptop/Desktop,4,1,12,2,Youtube,0,3,Decreased,NO,YES,YES
+R433,Delhi-NCR,21,2,Very poor,Laptop/Desktop,0,1,12,5,Instagram,5,4,Remain Constant,NO,NO,NO
+R434,Outside Delhi-NCR,21,2,Average,Laptop/Desktop,2,1,8,2,Whatsapp,2,3,Remain Constant,YES,YES,YES
+R435,Delhi-NCR,15,5,Average,Laptop/Desktop,3,1,10,3,Instagram,1,4,Remain Constant,NO,YES,YES
+R436,Outside Delhi-NCR,19,1,Very poor,Laptop/Desktop,0,1,9,8,Youtube,0,3,Remain Constant,NO,NO,NO
+R437,Outside Delhi-NCR,19,3,Very poor,Laptop/Desktop,1,0,5,1,Youtube,2,3,Increased,NO,NO,YES
+R438,Outside Delhi-NCR,18,3,Very poor,Smartphone,2,0,8,2,Instagram,0.5,3,Remain Constant,NO,NO,YES
+R439,Delhi-NCR,14,7,Very poor,Tablet,3,0,8,0,None ,1,2,Decreased,NO,NO,NO
+R440,Outside Delhi-NCR,18,1,Excellent,Smartphone,2,1,8,1,Facebook,0,2,Remain Constant,NO,YES,YES
+R441,Delhi-NCR,50,2,Good,Smartphone,2,0,6,2,Youtube,1,3,Remain Constant,NO,YES,NO
+R442,Outside Delhi-NCR,20,0.7,Very poor,Laptop/Desktop,3.5,0.5,8,3,Instagram,0.6,4,Increased,NO,YES,YES
+R443,Outside Delhi-NCR,16,2,Very poor,Laptop/Desktop,2,1,9,2,Instagram,0.5,2,Remain Constant,YES,NO,YES
+R444,Delhi-NCR,13,2,Good,Smartphone,1,0,11,2,Youtube,3,2,Increased,YES,NO,NO
+R445,Delhi-NCR,20,3,Very poor,Laptop/Desktop,4,1,8,2,Twitter,0,3,Remain Constant,NO,YES,YES
+R446,Delhi-NCR,21,0,Very poor,Laptop/Desktop,2,1,7,2,Whatsapp,7,3,Increased,NO,NO,NO
+R447,Delhi-NCR,14,3,Excellent,Laptop/Desktop,5,2,10,3,Facebook,3,3,Decreased,NO,YES,YES
+R448,Outside Delhi-NCR,20,0,Very poor,Laptop/Desktop,2,0,7,5,Instagram,0,2,Decreased,YES,NO,YES
+R449,Delhi-NCR,22,3,Average,Laptop/Desktop,2,0,7,3,Youtube,0,3,Increased,NO,YES,YES
+R450,Delhi-NCR,13,0.75,Excellent,Smartphone,2,0,7,1,Youtube,0,1,Remain Constant,NO,YES,NO
+R451,Delhi-NCR,13,3,Good,Smartphone,3,1,8,1,Whatsapp,0.5,2,Increased,NO,YES,YES
+R452,Delhi-NCR,16,6,Good,Smartphone,3,1,6,1,Youtube,1,1,Decreased,NO,YES,YES
+R453,Outside Delhi-NCR,35,4,Average,Smartphone,2,1,6,0.5,Facebook,1,2,Remain Constant,NO,NO,YES
+R454,Outside Delhi-NCR,45,3,Excellent,Laptop/Desktop,4,1,8,2,Youtube,1,3,Increased,NO,YES,YES
+R455,Delhi-NCR,16,0,Good,Smartphone,0,2,6,1,Facebook,4,2,Remain Constant,NO,NO,YES
+R456,Delhi-NCR,20,4,Very poor,Laptop/Desktop,6,0,8,0,Youtube,0,2,Remain Constant,NO,YES,YES
+R457,Outside Delhi-NCR,21,0,Poor,Laptop/Desktop,9,0,7,2,Instagram,0,3,Remain Constant,NO,YES,NO
+R458,Delhi-NCR,23,6,Average,Laptop/Desktop,4,1,9,1,Instagram,0,4,Remain Constant,NO,NO,NO
+R459,Outside Delhi-NCR,21,2,Average,Laptop/Desktop,4,1,8,8,Instagram,1,2,Increased,NO,YES,YES
+R460,Delhi-NCR,20,7,Good,Laptop/Desktop,2,0,8,4,Facebook,3,4,Increased,NO,NO,NO
+R461,Outside Delhi-NCR,19,0,Very poor,Smartphone,5,0.5,7,4,Instagram,0,3,Remain Constant,NO,YES,YES
+R462,Outside Delhi-NCR,18,4,Very poor,Smartphone,2,1,12,2,Instagram,0,3,Remain Constant,NO,YES,NO
+R463,Delhi-NCR,30,0,NA,NA,0.5,0,7,1,Youtube,0.5,2,Remain Constant,NO,YES,YES
+R464,Delhi-NCR,18,2,Good,NA,3,1,7,2,Whatsapp,1,3,Remain Constant,YES,YES,YES
+R465,Outside Delhi-NCR,21,2,Average,NA,4,1,10,8,Instagram,1,3,Increased,NO,NO,YES
+R466,Outside Delhi-NCR,13,4,Good,NA,2,2,8,2,Youtube,2,2,Decreased,NO,YES,YES
+R467,Outside Delhi-NCR,22,1,Average,NA,3,3,8,3,Instagram,3,4,Increased,NO,YES,YES
+R468,Delhi-NCR,21,1,Very poor,NA,0,0,8,2,Instagram,1,3,Remain Constant,NO,YES,YES
+R469,Outside Delhi-NCR,21,2,Good,NA,6,0,6.5,0.5,Whatsapp,0,3,Increased,NO,YES,YES
+R470,Delhi-NCR,21,2,Very poor,NA,1,0,13,6,Twitter,7,2,Decreased,YES,NO,NO
+R471,Outside Delhi-NCR,20,5,Good,Laptop/Desktop,7,0,6,1,Linkedin,0,4,Increased,NO,YES,YES
+R472,Delhi-NCR,20,0,Very poor,Laptop/Desktop,10,4,6,2,Whatsapp,0,7,Decreased,NO,YES,YES
+R473,Outside Delhi-NCR,20,4,Very poor,Laptop/Desktop,5,1,9,2,Youtube,0,4,Increased,NO,NO,YES
+R474,Outside Delhi-NCR,19,4,Average,Laptop/Desktop,0,0,8,6,Instagram,1,3,Increased,NO,NO,YES
+R475,Delhi-NCR,19,0,Good,Laptop/Desktop,3,1,8,3,Instagram,1,3,Increased,NO,NO,NO
+R476,Delhi-NCR,7,2,Good,Smartphone,2,1,9,1,Whatsapp,2,3,Increased,NO,NO,YES
+R477,Outside Delhi-NCR,21,2,Average,Laptop/Desktop,0,1,7,3,Instagram,0,2,Remain Constant,NO,YES,YES
+R478,Delhi-NCR,23,4,Very poor,Laptop/Desktop,10,1,7,1,Whatsapp,0,2,Decreased,NO,YES,YES
+R479,Delhi-NCR,20,5,Very poor,Laptop/Desktop,2,0,13,4,Instagram,0,2,Increased,NO,NO,NO
+R480,Delhi-NCR,20,4,Very poor,Smartphone,4,0,8,4,Instagram,3,3,Remain Constant,NO,YES,YES
+R481,Outside Delhi-NCR,19,4,Very poor,Laptop/Desktop,3,1,8,3,Whatsapp,2,3,Increased,NO,YES,YES
+R482,Delhi-NCR,20,4,Very poor,Laptop/Desktop,2,1,8,2,Youtube,0,3,Increased,NO,YES,YES
+R483,Outside Delhi-NCR,18,4,Average,Smartphone,1,0,9,4,Whatsapp,1,3,Decreased,YES,NO,YES
+R484,Delhi-NCR,21,4,Very poor,Tablet,0,3,11,10,Snapchat,0,1,Decreased,NO,NO,NO
+R485,Outside Delhi-NCR,18,6,Very poor,Laptop/Desktop,6,1,6,1,Instagram,0.5,5,Remain Constant,YES,YES,YES
+R486,Delhi-NCR,21,6,Excellent,Laptop/Desktop,6,1,6,1,Instagram,0,4,Decreased,NO,NO,YES
+R487,Outside Delhi-NCR,19,2,Very poor,Laptop/Desktop,3,0,7,3,Whatsapp,2,2,Increased,NO,NO,NO
+R488,Outside Delhi-NCR,19,0,Average,Laptop/Desktop,1,0.5,8,1,Instagram,0,3,Increased,NO,NO,YES
+R489,Outside Delhi-NCR,22,2,Average,Laptop/Desktop,2,0,8,1,Instagram,1,3,Remain Constant,YES,NO,NO
+R490,Delhi-NCR,21,3,Average,Laptop/Desktop,7,3,6,1,Whatsapp,0,3,Remain Constant,NO,YES,NO
+R491,Delhi-NCR,24,2,Poor,Smartphone,6,0,6,3,Whatsapp,0.5,4,Decreased,NO,NO,NO
+R492,Outside Delhi-NCR,20,4,Very poor,Laptop/Desktop,4,0,8,2,Whatsapp,0,1,Remain Constant,NO,NO,NO
+R493,Outside Delhi-NCR,20,2,Average,Smartphone,2,0,12,4,Instagram,0,3,Remain Constant,NO,NO,YES
+R494,Outside Delhi-NCR,24,5,Average,Laptop/Desktop,2,0,6,3,Instagram,0,4,Increased,NO,NO,YES
+R495,Delhi-NCR,21,5,Average,Laptop/Desktop,6,0,7,2,Linkedin,0.5,3,Increased,NO,YES,YES
+R496,Delhi-NCR,20,3,Very poor,Laptop/Desktop,6,2,5,3,Youtube,0,3,Remain Constant,NO,YES,YES
+R497,Outside Delhi-NCR,22,5,Very poor,Smartphone,0,1,8,4,Facebook,0,3,Remain Constant,NO,NO,YES
+R498,Outside Delhi-NCR,20,7,Very poor,Laptop/Desktop,0,1,6,2,Facebook,1,4,Remain Constant,NO,NO,YES
+R499,Outside Delhi-NCR,20,0.5,Very poor,Smartphone,3,1,10,3,Instagram,2,2,Increased,YES,NO,NO
+R500,Delhi-NCR,19,0,NA,NA,8,1,8,0,None,0,2,Remain Constant,NO,NO,NO
+R501,Outside Delhi-NCR,22,0.5,Very poor,Laptop/Desktop,1,1,8,3,Instagram,0,4,Increased,NO,NO,NO
+R502,Outside Delhi-NCR,21,4,Average,Laptop/Desktop,1,0,10,2,Whatsapp,0,3,Increased,NO,NO,YES
+R503,Outside Delhi-NCR,19,3,Very poor,Laptop/Desktop,2,1,6,2,Instagram,0,3,Increased,NO,NO,YES
+R504,Outside Delhi-NCR,13,3,Average,Smartphone,2,1,7,2,Whatsapp,0,3,Decreased,NO,YES,YES
+R505,Delhi-NCR,10,4,Average,Smartphone,2,1,8,1,Whatsapp,2,3,Remain Constant,NO,YES,YES
+R506,Outside Delhi-NCR,21,4,Very poor,Laptop/Desktop,2,0,6,1,Youtube,0,3,Increased,NO,NO,YES
+R507,Outside Delhi-NCR,20,2,Very poor,Laptop/Desktop,3,0,11,1,Whatsapp,1,3,Remain Constant,NO,NO,NO
+R508,Delhi-NCR,22,1,Very poor,Smartphone,2,1,6,2,Instagram,0,3,Increased,NO,YES,YES
+R509,Delhi-NCR,20,4,Average,Laptop/Desktop,0,0,12,2,Instagram,2,3,Increased,NO,NO,NO
+R510,Outside Delhi-NCR,20,0,Poor,Laptop/Desktop,2,0,10,4,Instagram,0,3,Increased,NO,NO,NO
+R511,Delhi-NCR,20,0,Average,Laptop/Desktop,1,1,8,4,Whatsapp,0,3,Increased,NO,NO,YES
+R512,Outside Delhi-NCR,21,0,Average,Smartphone,4,1,7,2,Facebook,4,4,Increased,NO,YES,YES
+R513,Delhi-NCR,19,4,Very poor,Laptop/Desktop,3,2,8,2,Instagram,1,4,Remain Constant,NO,YES,YES
+R514,Outside Delhi-NCR,13,2,Excellent,Smartphone,2,1,6,6,Instagram,8,4,Increased,NO,YES,YES
+R515,Outside Delhi-NCR,20,2,Average,Laptop/Desktop,3,0,7,5,Instagram,6,2,Increased,NO,NO,NO
+R516,Outside Delhi-NCR,17,2,Average,Smartphone,5,3,5,1,Whatsapp,0.5,3,Decreased,NO,NO,YES
+R517,Outside Delhi-NCR,11,1,Good,Laptop/Desktop,1,1,15,3,Youtube,1,4,Increased,NO,YES,YES
+R518,Delhi-NCR,17,2,Excellent,Smartphone,3,1,8,3,Whatsapp,1,2,Increased,NO,YES,YES
+R519,Outside Delhi-NCR,17,1,Average,Smartphone,2,0,8,1,Youtube,1,2,Decreased,NO,NO,YES
+R520,Delhi-NCR,19,4,Very poor,Laptop/Desktop,5,0,8,3,Twitter,2,3,Increased,NO,NO,YES
+R521,Outside Delhi-NCR,20,6,Good,Laptop/Desktop,5,2,6,10,Twitter,15,3,Remain Constant,NO,YES,YES
+R522,Delhi-NCR,18,3,Good,Laptop/Desktop,4,2,7,2,Youtube,2,3,Increased,NO,YES,YES
+R523,Delhi-NCR,20,4,Average,Laptop/Desktop,3,0,8,4,Youtube,2,4,Increased,NO,NO,YES
+R524,Delhi-NCR,19,0,Very poor,Laptop/Desktop,1,0,9,6,Twitter,0,4,Increased,NO,NO,NO
+R525,Delhi-NCR,17,3,Average,Smartphone,3,3,9,2,Youtube,0,3,Increased,NO,NO,NO
+R526,Outside Delhi-NCR,19,0,Very poor,Smartphone,0,1,10,7,Youtube,1,3,Increased,YES,NO,YES
+R527,Outside Delhi-NCR,21,1,Average,Laptop/Desktop,8,2,8,2,Whatsapp,1,3,Remain Constant,YES,NO,NO
+R528,Outside Delhi-NCR,34,2,Average,Laptop/Desktop,1,0,7,6,Whatsapp,6,3,Remain Constant,NO,YES,YES
+R529,Outside Delhi-NCR,15,4,Very poor,Smartphone,4,0,7,1,Youtube,2,3,Increased,NO,NO,NO
+R530,Outside Delhi-NCR,19,2,Very poor,Laptop/Desktop,0,1,12,2,Instagram,1,3,Decreased,YES,NO,NO
+R531,Delhi-NCR,24,0,NA,NA,1,0,10,6,Instagram,3,4,Increased,NO,NO,NO
+R532,Outside Delhi-NCR,17,6,Average,Smartphone,4,0,7,9,Youtube,0.5,2,Increased,NO,NO,YES
+R533,Delhi-NCR,26,2,Very poor,Laptop/Desktop,1,1,8,4,Facebook,0,3,Decreased,NO,NO,YES
+R534,Delhi-NCR,20,0,Very poor,Laptop/Desktop,1,1,7,0.5,Instagram,0.5,3,Increased,NO,YES,YES
+R535,Outside Delhi-NCR,22,3,Average,Laptop/Desktop,6,2,8,4,Instagram,1,4,Remain Constant,NO,YES,YES
+R536,Outside Delhi-NCR,20,6,Poor,Laptop/Desktop,2,2,8,1,Instagram,0,3,Decreased,NO,YES,NO
+R537,Outside Delhi-NCR,21,4,Very poor,Laptop/Desktop,2,2,8,4,Youtube,4,3,Decreased,NO,YES,YES
+R538,Outside Delhi-NCR,14,3,Good,Smartphone or Laptop/Desktop,2,0,6,1,Whatsapp,1,1,Increased,NO,YES,YES
+R539,Outside Delhi-NCR,20,5,Very poor,Laptop/Desktop,6,1,7,2,Youtube,0,3,Remain Constant,NO,NO,YES
+R540,Delhi-NCR,19,2,Excellent,Smartphone,2,1,10,2,Youtube,1,2,Remain Constant,NO,YES,YES
+R541,Delhi-NCR,44,3,Average,Smartphone,4,0,6,1,Facebook,1,2,Remain Constant,NO,YES,YES
+R542,Outside Delhi-NCR,20,1,Very poor,Tablet,2,3,8,2,Whatsapp,2,2,Decreased,NO,YES,YES
+R543,Delhi-NCR,22,3,Average,Laptop/Desktop,6,1,6,3,Whatsapp,2,3,Remain Constant,NO,NO,YES
+R544,Outside Delhi-NCR,21,1,Poor,Smartphone,4,1,8,4,Youtube,0,3,Remain Constant,NO,YES,YES
+R545,Delhi-NCR,20,5,Very poor,Laptop/Desktop,2,0,8,1,Linkedin,2,3,Remain Constant,NO,YES,YES
+R546,Delhi-NCR,18,4,Very poor,Tablet,4,0,9,2,Instagram,2,3,Remain Constant,NO,NO,YES
+R547,Outside Delhi-NCR,15,1,Good,Smartphone,2,1,8,1,Whatsapp,2,2,Increased,NO,NO,YES
+R548,Outside Delhi-NCR,19,2,Average,Smartphone,0,0,8,10,Instagram,1,2,Decreased,NO,NO,YES
+R549,Outside Delhi-NCR,24,2,Average,Smartphone,2,0,6,3,Whatsapp,0,2,Decreased,NO,NO,NO
+R550,Delhi-NCR,16,7,Average,Smartphone,4,1,6,1,Whatsapp,0,4,Remain Constant,NO,YES,YES
+R551,Outside Delhi-NCR,21,0,Poor,Smartphone,8,0,7,2,Whatsapp,0.5,3,Remain Constant,YES,YES,NO
+R552,Outside Delhi-NCR,17,4,Good,Smartphone,3,3,6,5,Instagram,No tv,4,Decreased,NO,YES,YES
+R553,Delhi-NCR,15,5,Good,Smartphone,2,1,7,0,Youtube,0,2,Increased,NO,NO,YES
+R554,Outside Delhi-NCR,16,2,Very poor,Smartphone,1,0,9,1,Whatsapp,0,3,Decreased,NO,NO,YES
+R555,Delhi-NCR,21,6,Average,Laptop/Desktop,2,1,7,1.5,Youtube,1.5,3,Remain Constant,NO,NO,YES
+R556,Delhi-NCR,13,2,Excellent,Smartphone,2,1,9,2,Facebook,1,3,Increased,NO,YES,NO
+R557,Delhi-NCR,22,3,Very poor,Smartphone,2,1,9,1,Whatsapp,1,4,Remain Constant,YES,NO,YES
+R558,Outside Delhi-NCR,15,4,Average,Laptop/Desktop,4,1,11,1,Instagram,2,5,Remain Constant,NO,YES,YES
+R559,Outside Delhi-NCR,26,0.5,Very poor,Smartphone,1,0,6,1,Whatsapp,1,3,Decreased,YES,NO,NO
+R560,Delhi-NCR,21,0,Very poor,Laptop/Desktop,2,0,10,6,Youtube,0,2,Remain Constant,NO,NO,YES
+R561,Outside Delhi-NCR,13,1,Good,Smartphone,1,1,8,1,Youtube,2,3,Remain Constant,NO,NO,YES
+R562,Delhi-NCR,21,3,Average,Laptop/Desktop,0,2,8,2,Instagram,2,3,Increased,NO,NO,NO
+R563,Outside Delhi-NCR,21,3,Very poor,Smartphone,1,1,8,2,Instagram,0,3,Increased,NO,YES,YES
+R564,Delhi-NCR,17,2,Average,Smartphone,1,1,8,7,Instagram,0,4,Increased,NO,NO,YES
+R565,Delhi-NCR,20,1,Good,Smartphone,3,1,8,3,Youtube,1,4,Remain Constant,NO,NO,YES
+R566,Delhi-NCR,18,3,Good,Smartphone,2,0,8,1,Youtube,1,3,Decreased,NO,YES,NO
+R567,Delhi-NCR,19,2,Very poor,Laptop/Desktop,8,0,8,1,Youtube,0,4,Decreased,YES,NO,NO
+R568,Delhi-NCR,21,4,Average,Laptop/Desktop,4,1,8,3,Instagram,1,3,Increased,NO,NO,NO
+R569,Delhi-NCR,20,8,Excellent,Smartphone,8,1,7,2,Youtube,1,4,Increased,NO,YES,YES
+R570,Delhi-NCR,21,8,Good,Laptop/Desktop,2,1,7,1,Whatsapp,0,3,Remain Constant,NO,YES,YES
+R571,Outside Delhi-NCR,32,2,Good,Smartphone,0,0,11,1,Whatsapp,3,4,Remain Constant,NO,NO,NO
+R572,Delhi-NCR,19,4,Good,Laptop/Desktop,4,2,8,6,Instagram,6,3,Increased,NO,NO,YES
+R573,Delhi-NCR,18,2,Very poor,Smartphone,0,3,8,1,Twitter,0,3,Increased,NO,NO,YES
+R574,Delhi-NCR,23,0,NA,NA,1,0,9,3,Instagram,2,2,Remain Constant,NO,NO,YES
+R575,Delhi-NCR,18,0,Very poor,Smartphone,0,0,7,3,Instagram,2,4,Remain Constant,YES,NO,YES
+R576,Delhi-NCR,19,2,Very poor,Laptop/Desktop,1,2,8,3,Instagram,2,4,Increased,NO,YES,NO
+R577,Delhi-NCR,19,2,Very poor,Smartphone,2,0,8,1.5,Instagram,1,2,Decreased,NO,NO,YES
+R578,Outside Delhi-NCR,19,3,Excellent,Laptop/Desktop,0,0,9,6,Whatsapp,0,2,Remain Constant,YES,YES,YES
+R579,Delhi-NCR,23,4,Very poor,Smartphone,4,1,8,2,Youtube,2,2,Increased,NO,NO,YES
+R580,Delhi-NCR,25,0,NA,NA,2,1,9,2,Whatsapp,1,2,Increased,NO,NO,NO
+R581,Delhi-NCR,22,4,Very poor,Laptop/Desktop,1,0,9,1,Youtube,1,4,Remain Constant,NO,YES,YES
+R582,Delhi-NCR,12,6,Good,Tablet,4,0,7,1,Youtube,2,4,Increased,NO,NO,YES
+R583,Delhi-NCR,8,2,Excellent,Laptop/Desktop,1,1,5,1,Youtube,1,2,Remain Constant,NO,YES,YES
+R584,Delhi-NCR,17,0.75,Excellent,Smartphone,4,1,7,1,Whatsapp,0.3,2,Decreased,NO,YES,YES
+R585,Delhi-NCR,21,3,Excellent,Laptop/Desktop,1,0,11,3,Twitter,2,1,Remain Constant,NO,YES,NO
+R586,Delhi-NCR,14,3,Average,Smartphone,2,2,7,2,Whatsapp,2,3,Remain Constant,NO,YES,NO
+R587,Outside Delhi-NCR,20,4,Very poor,Smartphone,3,0,8,1,Facebook,0,1,Increased,NO,NO,YES
+R588,Delhi-NCR,22,0,Very poor,Smartphone,2,1,6,0.5,Youtube,0,1,Decreased,NO,YES,YES
+R589,Delhi-NCR,13,6,Average,Tablet,3,1,10,1,Snapchat,6,3,Remain Constant,NO,YES,YES
+R590,Delhi-NCR,21,2,Very poor,Smartphone,0.5,1,8,1,Youtube,0,4,Increased,NO,YES,YES
+R591,Delhi-NCR,36,3,Excellent,Laptop/Desktop,2,0,8,2,Facebook,0,3,Remain Constant,NO,NO,YES
+R592,Delhi-NCR,13,4,Good,Any Gadget,3,1,9,3,Instagram,2,2,Decreased,NO,YES,YES
+R593,Outside Delhi-NCR,24,2,Average,Smartphone,1,1,7,4,Instagram,0,3,Remain Constant,NO,YES,YES
+R594,Outside Delhi-NCR,46,2,Very poor,Smartphone,0.5,0.25,7,1,Whatsapp,1,3,Remain Constant,NO,NO,NO
+R595,Delhi-NCR,16,5,Good,Laptop/Desktop,8,0.5,6,0.4,Instagram,0,3,Remain Constant,NO,YES,NO
+R596,Delhi-NCR,25,2,Good,Laptop/Desktop,3,0,7,2,Linkedin,3,2,Remain Constant,NO,YES,YES
+R597,Delhi-NCR,24,6,Good,Laptop/Desktop,8,0,9,2,Youtube,0,3,Decreased,YES,YES,YES
+R598,Delhi-NCR,17,4,Very poor,Smartphone,2,0,10,3,Facebook,4,2,Remain Constant,NO,YES,YES
+R599,Delhi-NCR,16,1,Average,Smartphone,2,0,10,2,Youtube,3,4,Remain Constant,NO,NO,YES
+R600,Delhi-NCR,20,3,Very poor,Laptop/Desktop,6,1,8,3,Instagram,1,4,Increased,NO,YES,YES
+R601,Delhi-NCR,40,5,Very poor,Laptop/Desktop,3,0,6,3,Whatsapp,0,3,Increased,YES,YES,YES
+R602,Outside Delhi-NCR,32,1,Average,Laptop/Desktop,2,0.5,7,3,Whatsapp,0,3,Increased,YES,NO,YES
+R603,Outside Delhi-NCR,14,5,Average,Smartphone,2,0,9,1,Whatsapp,2,2,Remain Constant,NO,YES,YES
+R604,Delhi-NCR,18,4,Average,Laptop/Desktop,2,3,7,4,Instagram,1,2,Decreased,NO,NO,NO
+R605,Delhi-NCR,52,0,Good,Laptop/Desktop,2,1,8,2,Youtube,0,4,Remain Constant,NO,YES,YES
+R606,Delhi-NCR,21,1,Very poor,Laptop/Desktop,8,0,8,2,Youtube,2,2,Decreased,YES,YES,NO
+R608,Delhi-NCR,21,6,Very poor,Laptop/Desktop,3,0,8,4,Linkedin,1,3,Increased,YES,NO,NO
+R609,Delhi-NCR,21,4,Average,Laptop/Desktop,3,0,8,2,Whatsapp,1,3,Decreased,NO,NO,NO
+R610,Delhi-NCR,22,1,Very poor,Laptop/Desktop,10,2,7,1,Whatsapp,0,3,Remain Constant,NO,YES,YES
+R611,Delhi-NCR,19,0,Very poor,Smartphone,4,0,8,4,Instagram,0,1,Increased,NO,NO,NO
+R612,Outside Delhi-NCR,14,4,Good,Smartphone,1,1,8,1,Facebook,0.5,2,Increased,NO,YES,NO
+R613,Delhi-NCR,18,1,Average,Smartphone,2,0,7,1,Whatsapp,0,3,Decreased,YES,NO,YES
+R614,Delhi-NCR,17,2,Excellent,Smartphone,3,2,10,1,Youtube,1,2,Increased,NO,YES,YES
+R615,Delhi-NCR,21,2,Average,Laptop/Desktop,0,0,7,5,Youtube,0,3,Decreased,NO,NO,YES
+R616,Delhi-NCR,22,2,Very poor,Laptop/Desktop,2,0,6,5,Instagram,0,2,Increased,NO,YES,YES
+R617,Outside Delhi-NCR,15,3,Very poor,Smartphone,2,0,10,1,Youtube,2,2,Increased,NO,NO,YES
+R618,Delhi-NCR,25,6,Good,Laptop/Desktop,0,1,7,3,Instagram,0,2,Increased,NO,NO,YES
+R619,Outside Delhi-NCR,17,2,Excellent,Smartphone,3,1,8,1,Facebook,2,1,Increased,NO,YES,YES
+R620,Outside Delhi-NCR,25,1,Average,Laptop/Desktop,4,0.5,9,2,Whatsapp,5,3,Increased,NO,NO,YES
+R621,Delhi-NCR,22,1,Very poor,Smartphone,0,0,6,2,Instagram,2,3,Increased,YES,NO,NO
+R622,Outside Delhi-NCR,21,0,Very poor,Smartphone,3,0,8,4,Instagram,1,3,Remain Constant,YES,NO,YES
+R623,Outside Delhi-NCR,20,1,Good,Laptop/Desktop,3,1,12,3,Youtube,2,4,Remain Constant,NO,YES,YES
+R624,Outside Delhi-NCR,21,2,Good,Smartphone,5,0,12,3,Youtube, ,4,Remain Constant,NO,NO,NO
+R625,Delhi-NCR,13,3.5,Good,Smartphone,2,2,9,1,Whatsapp,6,1,Increased,YES,YES,YES
+R626,Delhi-NCR,32,6,Good,Laptop/Desktop,2,1,5,2,Youtube,2,2,Increased,NO,YES,YES
+R627,Delhi-NCR,34,2,Average,Laptop/Desktop,2,1,7,4,Facebook,2,2,Remain Constant,NO,NO,NO
+R628,Delhi-NCR,22,0,Very poor,Smartphone,1,0,8,5,Whatsapp,1.5,3,Remain Constant,NO,NO,NO
+R629,Outside Delhi-NCR,21,4,Average,Laptop/Desktop,4,1,6,1,Linkedin,1,3,Remain Constant,YES,YES,NO
+R630,Delhi-NCR,17,1,Good,Smartphone,1,1,8,2,Instagram,1,3,Increased,NO,NO,YES
+R631,Delhi-NCR,13,4,Excellent,Smartphone,5,1,13,2,Whatsapp,3,2,Decreased,YES,YES,YES
+R632,Delhi-NCR,30,4,Average,Laptop/Desktop,3,1,7,1,Youtube,1,3,Remain Constant,NO,NO,NO
+R633,Delhi-NCR,21,2,Average,Smartphone,1,1,9,2,Youtube,2,3,Remain Constant,NO,NO,YES
+R634,Outside Delhi-NCR,28,3,Good,Laptop/Desktop,4,1,9,2,Youtube,0,3,Remain Constant,NO,YES,YES
+R635,Delhi-NCR,21,4,Very poor,Laptop/Desktop,3,0,6,2,Instagram,0,2,Remain Constant,NO,NO,NO
+R636,Outside Delhi-NCR,15,2,Excellent,Smartphone,5,3,11,1,Whatsapp,1,4,Increased,NO,NO,YES
+R637,Delhi-NCR,16,1,Good,Smartphone,1,1,7,2,Youtube,2,2,Remain Constant,NO,YES,YES
+R638,Delhi-NCR,40,3,Average,Smartphone,1,0.5,7,4,Instagram,1,3,Remain Constant,NO,YES,YES
+R639,Delhi-NCR,43,2,Good,Laptop/Desktop,2,1,7,1,Whatsapp,1,2,Remain Constant,NO,YES,YES
+R640,Delhi-NCR,25,1,Average,Smartphone,2,0,10,1,Whatsapp,1,3,Increased,NO,NO,YES
+R641,Outside Delhi-NCR,24,0,NA,NA,1,0,8,2,Linkedin,1,3,Increased,NO,NO,NO
+R642,Outside Delhi-NCR,16,2,Good,NA,5,1,9,1,Instagram,1,1,Decreased,NO,YES,NO
+R643,Delhi-NCR,16,0.8,Very poor,NA,1,0,8,1,Youtube,1,3,Remain Constant,NO,NO,YES
+R644,Delhi-NCR,34,2,Good,NA,1,1,9,2,Whatsapp,1,3,Increased,NO,YES,YES
+R645,Outside Delhi-NCR,28,2,Excellent,NA,2,1,7,1,Facebook,1,2,Decreased,NO,YES,YES
+R646,Outside Delhi-NCR,17,0.75,Good,Smartphone,2,2,6,1,Instagram,1,3,Increased,NO,YES,YES
+R647,Outside Delhi-NCR,18,0.75,Good,Smartphone,1,1,12,1,Facebook,1,3,Increased,NO,YES,YES
+R648,Outside Delhi-NCR,17,0.75,Good,Smartphone,2,1,12,1,Instagram,1,3,Increased,NO,YES,YES
+R649,Delhi-NCR,30,4,Excellent,Laptop/Desktop,4,0,5,6,Whatsapp,1,2,Remain Constant,NO,YES,YES
+R650,Delhi-NCR,19,4,Average,Laptop/Desktop,4,1,8,0,Youtube,0,2,Increased,NO,NO,NO
+R651,Delhi-NCR,21,0,Very poor,Smartphone,2,0,10,2,Instagram,0,3,Remain Constant,NO,NO,NO
+R652,Outside Delhi-NCR,20,4,Good,Laptop/Desktop,6,0,8,3,Facebook,0,3,Increased,NO,YES,YES
+R653,Delhi-NCR,19,5,Very poor,Smartphone,1,1,5,2,Youtube,4,3,Increased,NO,NO,YES
+R654,Delhi-NCR,19,3,Very poor,Laptop/Desktop,2,1,8,3,Youtube,0,3,Remain Constant,NO,NO,YES
+R655,Delhi-NCR,19,0,Very poor,Smartphone,0,0,12,4,Youtube,6,3,Decreased,NO,NO,NO
+R656,Outside Delhi-NCR,20,4,Average,Laptop/Desktop,2,1,7,1,Quora,0,3,Decreased,YES,NO,YES
+R657,Delhi-NCR,19,4,Very poor,Smartphone,5,0,6,2,Whatsapp,0,3,Increased,NO,YES,YES
+R658,Outside Delhi-NCR,20,0,Very poor,Laptop/Desktop,3,0,8,4,Youtube,2,4,Increased,YES,NO,NO
+R659,Outside Delhi-NCR,19,2,Very poor,Laptop/Desktop,2,1,9,1,Instagram,0,2,Decreased,YES,YES,YES
+R660,Delhi-NCR,21,6,Very poor,Smartphone,4,1,7,2,Whatsapp,0,4,Increased,NO,NO,NO
+R661,Delhi-NCR,20,4,Very poor,Smartphone,3,0,8,3,Youtube,0,3,Remain Constant,NO,NO,NO
+R662,Delhi-NCR,20,4,Very poor,Laptop/Desktop,4,1,7,1,Instagram,2,4,Remain Constant,NO,NO,YES
+R663,Delhi-NCR,20,5,Average,Laptop/Desktop,0.5,0,8,1,Whatsapp,0.5,3,Remain Constant,NO,NO,YES
+R664,Delhi-NCR,20,5,Very poor,Smartphone,2,1,7,1,Youtube,0,5,Increased,NO,YES,YES
+R665,Outside Delhi-NCR,22,6,Average,Smartphone,2,1,11,6,Instagram,2,4,Increased,YES,NO,NO
+R666,Delhi-NCR,22,3,Very poor,Laptop/Desktop,2,0,9,4,Instagram,1,4,Increased,NO,NO,YES
+R667,Delhi-NCR,21,1,Average,Smartphone,1,2,8,2,Instagram,0.5,3,Decreased,NO,NO,YES
+R668,Delhi-NCR,30,2,Very poor,Laptop/Desktop,1,1,5,1,Youtube,0,3,Remain Constant,NO,YES,YES
+R669,Delhi-NCR,21,2,Very poor,Laptop/Desktop,2,0,6,3,Whatsapp,0,3,Remain Constant,NO,NO,NO
+R670,Delhi-NCR,22,3,Average,Laptop/Desktop,3,1,8,3,Instagram,0,2,Decreased,NO,YES,NO
+R671,Outside Delhi-NCR,21,4,Good,Smartphone,3,1,8,3,Instagram,3,3,Increased,NO,YES,YES
+R672,Outside Delhi-NCR,21,5,Very poor,Smartphone,1,0.5,9,1.5,Instagram,0,3,Remain Constant,NO,NO,NO
+R673,Outside Delhi-NCR,19,5,Good,Laptop/Desktop,3,0,9,5,Whatsapp,1,3,Remain Constant,NO,YES,YES
+R674,Delhi-NCR,22,1,Very poor,Laptop/Desktop,2,1,9,1.5,Whatsapp,0.5,3,Remain Constant,YES,NO,NO
+R675,Delhi-NCR,20,6,Average,Laptop/Desktop,2,1,8,4,Instagram,0,2,Remain Constant,NO,NO,NO
+R676,Delhi-NCR,21,3,Excellent,Laptop/Desktop,6.5,0,7,0.5,Whatsapp,0,3,Remain Constant,NO,YES,NO
+R678,Outside Delhi-NCR,21,3,Average,Laptop/Desktop,2,1,7,2,Youtube,1,3,Decreased,NO,YES,YES
+R679,Outside Delhi-NCR,21,0,Very poor,Laptop/Desktop,4,1,8,1,Linkedin,0,4,Remain Constant,NO,YES,NO
+R680,Outside Delhi-NCR,21,5,Good,Laptop/Desktop,4,2,8,1,Instagram,0,4,Decreased,YES,NO,NO
+R681,Delhi-NCR,22,0,Very poor,Smartphone,0.5,1,10,1,Youtube,0,3,Increased,NO,NO,YES
+R682,Delhi-NCR,20,0,Very poor,Laptop/Desktop,0,0,10,10,Instagram,0,3,Increased,NO,NO,YES
+R683,Delhi-NCR,20,3,Good,Laptop/Desktop,3,1,7,2,Instagram,1,2,Remain Constant,NO,YES,YES
+R684,Delhi-NCR,18,2,Average,Smartphone,1,1,10,4,Youtube,1,4,Increased,NO,NO,NO
+R685,Delhi-NCR,19,0,Average,Laptop/Desktop,3,1,9,2,Instagram,0,2,Remain Constant,NO,NO,NO
+R686,Delhi-NCR,21,3,Average,Laptop/Desktop,4,1,7,1,Youtube,2,4,Decreased,NO,NO,YES
+R687,Outside Delhi-NCR,19,4,Poor,Laptop/Desktop,5,2,7,0.5,Whatsapp,0,4,Remain Constant,YES,YES,YES
+R688,Outside Delhi-NCR,22,3,Very poor,Laptop/Desktop,3,0,7,4,Youtube,0,3,Increased,NO,NO,NO
+R689,Delhi-NCR,21,7,Very poor,Laptop/Desktop,0,0,8,3,Instagram,0,3,Remain Constant,NO,YES,NO
+R690,Outside Delhi-NCR,20,0,Very poor,Laptop/Desktop,2,2,9,2,Instagram,0.5,3,Decreased,NO,YES,YES
+R691,Delhi-NCR,20,4,Very poor,Smartphone,2,1,6,2,Instagram,1,3,Increased,NO,YES,YES
+R692,Delhi-NCR,21,4,Good,Smartphone,2,1,7,3,Instagram,0,3,Remain Constant,NO,YES,YES
+R693,Delhi-NCR,23,3,Very poor,Laptop/Desktop,6,1,7,1.5,Instagram,0.5,3,Increased,YES,YES,YES
+R694,Delhi-NCR,22,0,Very poor,Laptop/Desktop,1,0,14,2,Whatsapp,2,3,Increased,NO,NO,NO
+R695,Outside Delhi-NCR,20,4,Very poor,Laptop/Desktop,1,2,12,2,Whatsapp,2,3,Remain Constant,NO,YES,YES
+R696,Delhi-NCR,20,6,Very poor,Laptop/Desktop,6,1,8,0,Linkedin,1,3,Decreased,NO,NO,YES
+R697,Delhi-NCR,21,3,Average,Laptop/Desktop,3,0,9,2,Linkedin,0,8,Increased,NO,YES,YES
+R698,Delhi-NCR,19,1,Average,Laptop/Desktop,3,0,10,4,Instagram,0,3,Decreased,NO,NO,NO
+R699,Delhi-NCR,22,0,Average,Laptop/Desktop,6,1,6,1,Youtube,2,3,Remain Constant,NO,YES,YES
+R700,Outside Delhi-NCR,20,3,Poor,Laptop/Desktop,5,1,7,1,Whatsapp,0,3,Increased,YES,NO,NO
+R701,Outside Delhi-NCR,19,1,Average,Laptop/Desktop,2,1,7,3,Instagram,0,3,Remain Constant,NO,NO,YES
+R702,Delhi-NCR,22,2,Good,Laptop/Desktop,10,1,6,1,Whatsapp,0,6,Increased,NO,YES,YES
+R703,Delhi-NCR,19,2,Very poor,Laptop/Desktop,1,2,5,4,Instagram,1,2,Decreased,NO,YES,YES
+R704,Delhi-NCR,18,3,Average,Smartphone,1,1,9,4,Instagram,0.5,4,Remain Constant,NO,YES,YES
+R705,Delhi-NCR,20,2,Average,Laptop/Desktop,2,1,9,1,Youtube,1,3,Remain Constant,NO,YES,NO
+R706,Delhi-NCR,19,2,Very poor,Laptop/Desktop,2,0,12,2,Whatsapp,0,2,Decreased,NO,YES,YES
+R707,Delhi-NCR,23,2,Average,Smartphone,5,1,12,1,Linkedin,0,3,Remain Constant,YES,YES,NO
+R708,Delhi-NCR,19,0,Average,Smartphone,1,0,8,4,Youtube,3,3,Increased,NO,NO,YES
+R709,Delhi-NCR,18,0,NA,NA,1,1,10,9,Instagram,2,3,Remain Constant,NO,YES,YES
+R710,Outside Delhi-NCR,19,2,Good,Laptop/Desktop,3,1,8,2,Youtube,1,3,Remain Constant,YES,YES,YES
+R711,Delhi-NCR,17,7,Very poor,Laptop/Desktop,3,2,6,2,Instagram,0,4,Remain Constant,NO,YES,NO
+R712,Delhi-NCR,18,7,Average,Laptop/Desktop,2,1,8,3,Whatsapp,1,3,Decreased,NO,YES,YES
+R713,Delhi-NCR,22,2,Good,Any Gadget,1.5,1,7,1,Youtube,2,3,Increased,NO,NO,NO
+R714,Delhi-NCR,21,4,Average,Laptop/Desktop,4,0,7,2,Whatsapp,1,3,Increased,NO,YES,YES
+R715,Delhi-NCR,17,3,Average,Laptop/Desktop,2,0,6,2,Instagram,0,3,Increased,NO,NO,YES
+R716,Delhi-NCR,19,0,Good,Tablet,0.5,1,6,2,Instagram,1,4,Increased,NO,NO,YES
+R717,Delhi-NCR,20,5,Very poor,Smartphone,2,2,6,3,Youtube,2,2,Decreased,NO,NO,NO
+R718,Delhi-NCR,17,4,Very poor,Smartphone,1,0,6,2,Instagram,0,3,Increased,NO,NO,NO
+R719,Delhi-NCR,21,3,Very poor,Laptop/Desktop,3,1,8,3,Instagram,2,2,Increased,NO,NO,NO
+R720,Delhi-NCR,19,2,Average,Smartphone,2,0,9,5,Instagram,1,2,Remain Constant,NO,NO,NO
+R721,Delhi-NCR,20,1.5,Very poor,Smartphone,2.5,2,9,1,Youtube,1.5,2,Decreased,YES,NO,YES
+R722,Delhi-NCR,21,3,Very poor,Laptop/Desktop,3,0,9,4,Snapchat,0.75,4,Increased,NO,NO,NO
+R723,Outside Delhi-NCR,19,2,Average,Laptop/Desktop,4,1,6,3,Instagram,1,4,Increased,NO,NO,YES
+R724,Delhi-NCR,38,4,Excellent,Laptop/Desktop,5,1,6,1,Youtube,2,3,Increased,NO,YES,YES
+R725,Delhi-NCR,19,3,Average,Smartphone,7,1,6,1,Linkedin,1,4,Increased,NO,YES,YES
+R726,Delhi-NCR,17,2,Average,Laptop/Desktop,0,0,11,1.5,Instagram,2,4,Remain Constant,NO,NO,YES
+R727,Outside Delhi-NCR,18,3,Good,Laptop/Desktop,3,0,10,2,Instagram,0,2,Increased,NO,NO,YES
+R728,Delhi-NCR,20,5,Very poor,Laptop/Desktop,2,3,10,1,Youtube,0.5,2,Decreased,YES,YES,YES
+R729,Delhi-NCR,20,2,Very poor,Smartphone,6,1,5,4,Youtube,0.5,1,Increased,YES,YES,YES
+R730,Delhi-NCR,23,0,Average,Laptop/Desktop,1,1,9,3,Linkedin,0,3,Increased,NO,YES,YES
+R731,Outside Delhi-NCR,29,2,Average,Laptop/Desktop,2,1,8,0,Youtube,0,2,Remain Constant,NO,NO,YES
+R732,Delhi-NCR,20,0,Very poor,Laptop/Desktop,6,0,9,1,Whatsapp,1,3,Increased,NO,NO,NO
+R733,Outside Delhi-NCR,22,1,Very poor,Smartphone,4,0.25,10,1,Linkedin,0,3,Remain Constant,NO,NO,YES
+R734,Delhi-NCR,18,2,Average,Laptop/Desktop,3,1,8,2,Youtube,3,3,Increased,NO,YES,YES
+R735,Delhi-NCR,15,4,Good,Smartphone,4,1,4,3,Youtube,2,3,Remain Constant,NO,YES,YES
+R736,Delhi-NCR,19,4,Average,Smartphone,5,1,8,2,Youtube,1,3,Remain Constant,NO,YES,YES
+R737,Delhi-NCR,20,2,Very poor,Smartphone,2,0,9,10,Youtube,1,2,Decreased,NO,YES,YES
+R738,Outside Delhi-NCR,21,1,Very poor,Smartphone,4,1,9,1,Whatsapp,1,3,Remain Constant,NO,YES,NO
+R739,Outside Delhi-NCR,21,4,Average,Laptop/Desktop,3,0,8,2,Youtube,1,3,Decreased,NO,YES,YES
+R740,Delhi-NCR,20,4,Very poor,Smartphone,1,1,10,2,Instagram,1,3,Increased,YES,NO,YES
+R741,Delhi-NCR,20,2,Average,Smartphone,1,2,8,4,Facebook,2,4,Decreased,NO,NO,YES
+R742,Outside Delhi-NCR,19,0,Very poor,Smartphone,2,1,7,4,Instagram,0,2,Remain Constant,NO,NO,YES
+R743,Outside Delhi-NCR,28,3,Good,Laptop/Desktop,1,0,10,1,Whatsapp,0,2,Increased,NO,NO,YES
+R744,Delhi-NCR,19,6,Good,Laptop/Desktop,6,0,8,2,Youtube,0.5,2,Increased,NO,YES,NO
+R745,Delhi-NCR,21,2,Average,Smartphone,2,1,8,1,Youtube,0,3,Remain Constant,NO,NO,NO
+R746,Delhi-NCR,23,0,Good,Laptop/Desktop,3,0,10,4,Youtube,1,3,Increased,NO,NO,YES
+R747,Delhi-NCR,20,3,Good,Laptop/Desktop,2,1,7,5,Whatsapp,2,3,Remain Constant,NO,NO,YES
+R748,Delhi-NCR,22,4,Good,Laptop/Desktop,2,1,12,2,Instagram,2,3,Remain Constant,NO,NO,YES
+R749,Delhi-NCR,20,2,Average,Smartphone,4,1,8,2,Youtube,0,3,Increased,NO,YES,YES
+R750,Outside Delhi-NCR,22,0,NA,NA,0,1,5,4,Instagram,0,2,Decreased,NO,NO,YES
+R751,Outside Delhi-NCR,20,5,Good,Laptop/Desktop,4,1,7,3,Youtube,1,3,Increased,NO,YES,YES
+R752,Outside Delhi-NCR,23,3,Good,Laptop/Desktop,2,1,6,1,Whatsapp,0,2,Remain Constant,NO,YES,YES
+R753,Outside Delhi-NCR,21,2,Very poor,Smartphone,2,1,8,4,Whatsapp,1,4,Increased,NO,NO,YES
+R754,Delhi-NCR,19,3,Very poor,Smartphone,2,1,9,5,Instagram,1,3,Remain Constant,NO,NO,NO
+R755,Outside Delhi-NCR,23,3,Good,Laptop/Desktop,5,0,6,1,Youtube,0,2,Remain Constant,NO,NO,YES
+R756,Outside Delhi-NCR,20,4,Average,Smartphone,2,0,8,2,Whatsapp,4,3,Remain Constant,NO,YES,YES
+R757,Outside Delhi-NCR,22,2,Good,Laptop/Desktop,2,1,8,2,Whatsapp,0,4,Increased,NO,YES,YES
+R758,Delhi-NCR,19,2,Poor,Smartphone,2,2,8,3,Youtube,0,4,Decreased,YES,YES,NO
+R759,Outside Delhi-NCR,21,5,Very poor,Smartphone,4,1,7,1,Youtube,0,3,Remain Constant,NO,YES,YES
+R760,Outside Delhi-NCR,20,0,Very poor,Smartphone,5,0,8,1,Youtube, ,3,Decreased,YES,NO,YES
+R761,Outside Delhi-NCR,21,1,Very poor,Laptop/Desktop,5,1,11,2,Instagram,0,3,Increased,NO,NO,YES
+R762,Delhi-NCR,22,5,Good,Laptop/Desktop,3,0,7,2,Whatsapp,0,3,Remain Constant,NO,YES,YES
+R763,Delhi-NCR,18,4,Good,Smartphone,2,0.5,6,2,Whatsapp,0,4,Remain Constant,NO,YES,NO
+R764,Delhi-NCR,21,1,Good,Laptop/Desktop,1,2,7,2,Youtube,0,3,Remain Constant,NO,YES,YES
+R765,Outside Delhi-NCR,22,2,Average,Laptop/Desktop,5,0.3,8,1,Linkedin,1,3,Increased,YES,NO,NO
+R766,Outside Delhi-NCR,20,4,Average,Laptop/Desktop,3,1,9,3,Instagram,1,2,Increased,NO,NO,YES
+R767,Delhi-NCR,19,6,Very poor,Smartphone,4,2,6,2,Instagram,0,4,Decreased,YES,YES,YES
+R768,Delhi-NCR,21,0.5,Very poor,Smartphone,2,1,9,1,Youtube,0,3,Increased,NO,NO,YES
+R769,Delhi-NCR,21,1,Very poor,Laptop/Desktop,0,0,9,3,Whatsapp,0,3,Remain Constant,NO,NO,NO
+R770,Delhi-NCR,19,4,Very poor,Smartphone,2,1,9,7,Instagram,3,3,Increased,NO,NO,YES
+R771,Outside Delhi-NCR,21,2,Very poor,Smartphone,2,0,8,1,Twitter,0,3,Increased,YES,NO,YES
+R772,Outside Delhi-NCR,23,5.5,Excellent,Laptop/Desktop,3,1,8,1,Whatsapp,0,2,Decreased,NO,YES,YES
+R773,Delhi-NCR,21,0,Very poor,Smartphone,0,0,9,4,Youtube,0,4,Increased,NO,NO,NO
+R774,Delhi-NCR,40,6,Average,Laptop/Desktop,3,0,7,2,Whatsapp,2,3,Remain Constant,NO,NO,YES
+R775,Delhi-NCR,20,4,Good,Laptop/Desktop,1,0,9,2,Instagram,0,3,Increased,NO,NO,YES
+R776,Outside Delhi-NCR,40,5,Excellent,Laptop/Desktop,4,0.5,6,1,Whatsapp,2,2,Remain Constant,NO,YES,YES
+R777,Delhi-NCR,19,3,Average,Smartphone,1,1,6,2,Instagram,0,3,Decreased,NO,YES,YES
+R778,Outside Delhi-NCR,18,2,Very poor,Laptop/Desktop,4,0,8,1.5,Instagram,0,2,Remain Constant,NO,NO,NO
+R779,Delhi-NCR,23,3,Average,Laptop/Desktop,2,1,6,3,Twitter,2,4,Remain Constant,NO,YES,YES
+R780,Outside Delhi-NCR,21,7,Average,Laptop/Desktop,8,0,6,1,Linkedin,1,4,Increased,NO,NO,YES
+R781,Outside Delhi-NCR,12,5,Average,Smartphone,2,1,7,0,None,1,4,Remain Constant,NO,YES,YES
+R782,Outside Delhi-NCR,20,0.5,Very poor,Smartphone,1,1,8,0.5,Whatsapp,2.5,3,Remain Constant,NO,NO,YES
+R783,Delhi-NCR,22,0,NA,NA,2,1,8,2,Instagram,2,3,Remain Constant,NO,YES,YES
+R784,Outside Delhi-NCR,30,4,Average,Laptop/Desktop,3,1,7.8,4,Whatsapp,2,3,Increased,NO,NO,NO
+R785,Outside Delhi-NCR,21,5,Average,Laptop/Desktop,1,1,8,2,Instagram,2,4,Remain Constant,NO,YES,YES
+R786,Delhi-NCR,20,1,Very poor,Laptop/Desktop,0,0,8,4,Whatsapp,0,4,Increased,NO,NO,YES
+R787,Delhi-NCR,22,3,Average,Laptop/Desktop,5,0,8,2,Instagram,0,2,Remain Constant,YES,YES,YES
+R788,Delhi-NCR,40,1,Excellent,Laptop/Desktop,2,1,6.7,1,Whatsapp,1,2,Remain Constant,NO,YES,YES
+R789,Outside Delhi-NCR,24,5,Excellent,Laptop/Desktop,3,3,8,2,Whatsapp,2,3,Remain Constant,NO,YES,YES
+R790,Outside Delhi-NCR,18,4,Very poor,Smartphone,1,2,9,2,Whatsapp,0.5,2,Decreased,NO,NO,YES
+R791,Outside Delhi-NCR,22,1,Very poor,Smartphone,2,1,5,10,Instagram,0,2,Decreased,NO,NO,NO
+R792,Outside Delhi-NCR,20,7,Poor,Smartphone,2,0,8,3,Instagram,0,2,Remain Constant,YES,NO,YES
+R793,Delhi-NCR,35,3,Good,Laptop/Desktop,3,1,7,1,Whatsapp,1,3,Remain Constant,NO,NO,NO
+R794,Delhi-NCR,40,2,Poor,Smartphone,3,0,5,1,Whatsapp,1,4,Increased,NO,NO,YES
+R795,Outside Delhi-NCR,18,0,Poor,Laptop/Desktop,2,2,7,4,Instagram,1,3,Remain Constant,NO,YES,YES
+R796,Outside Delhi-NCR,19,4,Very poor,Smartphone,0,0,7,1,Youtube,0,2,Increased,NO,NO,NO
+R797,Delhi-NCR,35,4,Average,Laptop/Desktop,4,2,10,2,Facebook,1,3,Remain Constant,NO,YES,YES
+R798,Delhi-NCR,16,5,Very poor,Laptop/Desktop,4,0.5,8,0.5,Youtube,0,3,Increased,NO,NO,NO
+R799,Outside Delhi-NCR,30,1,Good,Smartphone,1,1,7,1,Whatsapp,0,4,Remain Constant,NO,NO,YES
+R800,Delhi-NCR,23,5,Excellent,Laptop/Desktop,2,1,8,1,Whatsapp,4,3,Remain Constant,YES,YES,YES
+R801,Outside Delhi-NCR,19,2,Average,Laptop/Desktop,5,0,9,2,Instagram,0.5,3,Increased,YES,NO,YES
+R802,Outside Delhi-NCR,19,4,Very poor,Smartphone,2,1,8,2,Youtube,1,3,Remain Constant,NO,NO,YES
+R803,Outside Delhi-NCR,37,4,Good,Laptop/Desktop,5,1,7,4,Instagram,0,2,Increased,NO,YES,YES
+R804,Delhi-NCR,21,3,Very poor,Laptop/Desktop,2,0,7,1,Instagram,0,2,Increased,NO,NO,NO
+R805,Outside Delhi-NCR,20,3,Very poor,Laptop/Desktop,4,0,9,2,Youtube,1,4,Increased,NO,YES,NO
+R806,Delhi-NCR,24,0,Average,Smartphone,1,1,8,1,Linkedin,0,3,Remain Constant,NO,YES,NO
+R807,Delhi-NCR,40,0,Average,Laptop/Desktop,0,1,10,2,Whatsapp,1,3,Increased,NO,NO,YES
+R808,Outside Delhi-NCR,20,2,Very poor,Smartphone,1,0.5,8,2,Youtube,5,3,Remain Constant,NO,NO,YES
+R809,Outside Delhi-NCR,23,3,Poor,Smartphone,4,0,9,3,Facebook,0,2,Increased,NO,NO,YES
+R810,Delhi-NCR,26,3,Very poor,Laptop/Desktop,2,1,8,1,Youtube,0,4,Increased,NO,YES,YES
+R811,Outside Delhi-NCR,20,5,Good,Smartphone,3,0,7,2,Youtube,2,4,Remain Constant,NO,NO,YES
+R812,Outside Delhi-NCR,22,0,Very poor,Smartphone,4,1,8,0,None,0,4,Remain Constant,YES,NO,NO
+R813,Outside Delhi-NCR,14,5,Good,Laptop/Desktop,4,0,8,2,Facebook,2,3,Increased,NO,NO,YES
+R814,Outside Delhi-NCR,20,0,Very poor,Smartphone,1,0,10,4,Youtube,1,3,Increased,NO,NO,YES
+R815,Outside Delhi-NCR,22,0,Average,Smartphone,0,0,10,5,Facebook,4,2,Remain Constant,NO,NO,YES
+R816,Outside Delhi-NCR,40,5,Average,Smartphone,2,1,8,4,Whatsapp,6,3,Remain Constant,NO,YES,YES
+R817,Outside Delhi-NCR,23,1,Poor,Smartphone,2,1,8,2,Instagram,2,2,Increased,YES,NO,YES
+R818,Outside Delhi-NCR,21,3,Very poor,Smartphone,2,2,7,3,Whatsapp,3,2,Remain Constant,NO,YES,YES
+R819,Outside Delhi-NCR,21,5,Average,Smartphone,5,0,5,2,Instagram,1,2,Remain Constant,NO,YES,NO
+R820,Delhi-NCR,34,2,Average,Smartphone,1,1,7,4,Whatsapp,2,3,Increased,NO,YES,YES
+R821,Outside Delhi-NCR,40,1,Average,Smartphone,1,1,8,3,Facebook,2,2,Decreased,NO,NO,YES
+R822,Outside Delhi-NCR,22,3,Good,Smartphone,2,1,8,2,Youtube,1,2,Remain Constant,NO,YES,NO
+R823,Outside Delhi-NCR,21,2,Very poor,Smartphone,0,2,8,4,Instagram,2,2,Remain Constant,NO,NO,NO
+R824,Outside Delhi-NCR,18,2,Poor,Smartphone,1,1,8.5,2,Whatsapp,3,3,Remain Constant,NO,NO,NO
+R825,Outside Delhi-NCR,22,2,Average,Laptop/Desktop,7,1,9,2,Instagram,0,2,Decreased,NO,NO,NO
+R826,Outside Delhi-NCR,21,0,Very poor,Smartphone,2,3,9,1,Whatsapp,1,1,Decreased,YES,NO,NO
+R827,Outside Delhi-NCR,22,3,Very poor,Laptop/Desktop,5,1,8,3,Facebook,1,4,Remain Constant,NO,YES,YES
+R828,Outside Delhi-NCR,21,2,Good,Laptop/Desktop,2,2,7,0.5,Whatsapp,0,4,Remain Constant,NO,YES,YES
+R829,Outside Delhi-NCR,21,3,Very poor,Laptop/Desktop,12,0,6,1,Linkedin,0,2,Decreased,YES,NO,NO
+R830,Delhi-NCR,21,2,Very poor,Smartphone,3,0,8,2,Instagram,0,2,Increased,YES,NO,NO
+R831,Outside Delhi-NCR,20,4,Very poor,Laptop/Desktop,4,0,11,3,Instagram,0,3,Increased,NO,NO,NO
+R832,Delhi-NCR,20,4,NA,NA,3,1,7,2,Whatsapp,2,4,Remain Constant,NO,YES,YES
+R833,Delhi-NCR,21,3,Very poor,Laptop/Desktop,5,0,7,1,Youtube,0,4,Remain Constant,NO,YES,NO
+R834,Outside Delhi-NCR,20,4,Average,Laptop/Desktop,5,0.5,8,1,Whatsapp,2,3,Increased,NO,YES,YES
+R835,Outside Delhi-NCR,21,4,Average,Laptop/Desktop,4,0,6,4,Whatsapp,0,3,Remain Constant,NO,YES,YES
+R836,Delhi-NCR,21,3,Very poor,Smartphone,8,1,8,1,Whatsapp,0,3,Remain Constant,NO,YES,NO
+R837,Delhi-NCR,21,5,Average,Smartphone,6,0,5,2,Youtube,0,3,Increased,YES,YES,YES
+R838,Outside Delhi-NCR,40,6,Excellent,Laptop/Desktop,2,1,6,2,Whatsapp,2,3,Decreased,NO,YES,NO
+R839,Delhi-NCR,20,2,Very poor,Smartphone,3,2,8,1,Youtube,1,3,Increased,NO,NO,NO
+R840,Delhi-NCR,22,4,Good,Laptop/Desktop,2,1,8,5,Whatsapp,0,3,Remain Constant,NO,NO,YES
+R841,Delhi-NCR,19,5,Average,Smartphone,6,1,6,0,Whatsapp,0,3,Remain Constant,NO,YES,YES
+R842,Delhi-NCR,22,3,Good,Smartphone,3,0,12,1,Youtube,4,2,Remain Constant,NO,NO,NO
+R843,Delhi-NCR,20,6,Very poor,Laptop/Desktop,4,1,6,3,Whatsapp,0.5,3,Remain Constant,NO,YES,YES
+R844,Delhi-NCR,36,4,Good,Laptop/Desktop,2,1,10,1,Youtube,1,3,Increased,NO,YES,YES
+R845,Delhi-NCR,23,4,Good,Laptop/Desktop,2,0.5,7,3,Youtube,1,3,Remain Constant,NO,YES,YES
+R846,Outside Delhi-NCR,32,2,Average,Laptop/Desktop,3,0,9,2,None,0.5,3,Increased,NO,NO,YES
+R847,Outside Delhi-NCR,24,2,Average,Smartphone,3,0.5,9,2,Twitter,0,2,Remain Constant,NO,YES,YES
+R848,Outside Delhi-NCR,20,5,Average,Laptop/Desktop,4,1,8,2,Youtube,1,3,Remain Constant,NO,NO,YES
+R849,Delhi-NCR,22,2,Excellent,Laptop/Desktop,3,1,8,2,Instagram,1,3,Decreased,NO,YES,YES
+R850,Delhi-NCR,20,5,Very poor,Laptop/Desktop,1,0,8,1,Youtube,0.5,2,Remain Constant,NO,NO,YES
+R851,Delhi-NCR,21,4,Very poor,Laptop/Desktop,2,0,10,2,Whatsapp,0,3,Increased,NO,NO,NO
+R852,Outside Delhi-NCR,38,4,Very poor,Laptop/Desktop,3,1,6,2,Youtube,2,3,Remain Constant,NO,YES,YES
+R853,Delhi-NCR,27,3,Good,Laptop/Desktop,2,1,8,2,Instagram,0.5,4,Decreased,YES,NO,NO
+R854,Outside Delhi-NCR,20,2,Average,Laptop/Desktop,2,0,7,2,Whatsapp,1,3,Increased,NO,NO,YES
+R855,Outside Delhi-NCR,21,2,Very poor,Laptop/Desktop,12,1,9,5,Youtube,1,3,Increased,NO,YES,YES
+R856,Delhi-NCR,20,8,Very poor,Laptop/Desktop,2,0,6,2,Linkedin,3,3,Decreased,NO,NO,YES
+R857,Delhi-NCR,20,4,Average,Smartphone,1,0,6,10,Talklife,2,1,Remain Constant,NO,NO,NO
+R858,Delhi-NCR,22,5,Average,Smartphone,4,1,6,2,Instagram,2,3,Increased,NO,YES,YES
+R859,Delhi-NCR,21,3,Very poor,Laptop/Desktop,2,1,8,0.75,Whatsapp,1,3,Remain Constant,NO,NO,NO
+R860,Outside Delhi-NCR,21,3,Very poor,Laptop/Desktop,1,0,8,1,Instagram,0,3,Increased,NO,NO,YES
+R861,Delhi-NCR,21,4,Very poor,Smartphone,6,0,9,2,Youtube,0,2,Remain Constant,NO,NO,YES
+R862,Delhi-NCR,21,4,Very poor,Smartphone,1,1,7,2,Instagram,0,4,Increased,NO,YES,YES
+R863,Delhi-NCR,21,4,Average,Smartphone,2,2,12,2,Instagram,0,2,Decreased,NO,NO,YES
+R864,Delhi-NCR,20,5,Average,Smartphone,5,1,6,2,Instagram,1,3,Increased,NO,NO,YES
+R865,Delhi-NCR,33,2,Very poor,Laptop/Desktop,1,1,7,1,Youtube,0,3,Remain Constant,YES,NO,YES
+R866,Delhi-NCR,20,4,Very poor,Smartphone,5,1,10,3,Whatsapp,0,2,Remain Constant,NO,NO,NO
+R867,Delhi-NCR,21,3,Average,Smartphone,2,2,7,1,Whatsapp,3,2,Remain Constant,NO,YES,YES
+R868,Delhi-NCR,20,6,Average,Laptop/Desktop,2,2,7,3,Whatsapp,1,4,Decreased,NO,YES,NO
+R869,Delhi-NCR,37,2,Good,Laptop/Desktop,1,1,7,0.5,Whatsapp,1,2,Remain Constant,NO,YES,YES
+R870,Delhi-NCR,22,5,Average,Smartphone,3,0,8,3,Instagram,0,3,Remain Constant,NO,NO,YES
+R871,Outside Delhi-NCR,33,4,Average,Laptop/Desktop,1,0,7,1,Whatsapp,N,4,Increased,NO,YES,YES
+R872,Outside Delhi-NCR,17,1,Very poor,Smartphone,2,0,7,2,Snapchat,1,3,Increased,YES,NO,NO
+R873,Outside Delhi-NCR,20,4,Average,Smartphone,5,1,7,0.5,Instagram,0,3,Decreased,NO,YES,YES
+R874,Delhi-NCR,19,2,Average,Laptop/Desktop,2,1,9,2,Instagram,1,4,Remain Constant,NO,NO,NO
+R875,Outside Delhi-NCR,20,4,Average,Smartphone,3,1,7,1,Youtube,1,2,Increased,NO,YES,YES
+R876,Outside Delhi-NCR,21,3,Very poor,Smartphone,4,1,5,2,Youtube,0,3,Remain Constant,NO,YES,YES
+R877,Delhi-NCR,17,7,Very poor,Smartphone,2,1,6,3,Youtube,1,3,Increased,NO,NO,YES
+R878,Outside Delhi-NCR,20,3,Poor,Smartphone,2,0,7,3,Youtube,1,2,Decreased,YES,NO,YES
+R879,Outside Delhi-NCR,20,7,Very poor,Laptop/Desktop,4,0,7,2,Instagram,1,3,Remain Constant,NO,YES,YES
+R880,Outside Delhi-NCR,19,10,Average,Laptop/Desktop,3,1,5,1,Instagram,0.5,4,Remain Constant,NO,NO,NO
+R881,Outside Delhi-NCR,21,5,Average,Laptop/Desktop,2,0,9,1,Instagram,2,3,Remain Constant,NO,NO,NO
+R882,Outside Delhi-NCR,20,8,Average,Laptop/Desktop,5,1,5,3,Instagram,0.5,3,Remain Constant,NO,NO,YES
+R883,Outside Delhi-NCR,36,5,Good,Laptop/Desktop,4,1,5,1,Whatsapp,1,2,Remain Constant,NO,YES,YES
+R884,Outside Delhi-NCR,20,4,Very poor,Smartphone,4,0,8,1,Instagram,0,3,Remain Constant,NO,NO,NO
+R885,Outside Delhi-NCR,31,4,Good,Laptop/Desktop,3,2,9,2,Linkedin,0,2,Decreased,NO,YES,YES
+R886,Delhi-NCR,22,6,Very poor,Laptop/Desktop,4,0,8,2,Whatsapp,0.5,4,Increased,NO,NO,NO
+R887,Delhi-NCR,22,5,Average,Smartphone,4,1,8,2,Youtube,1,2,Decreased,NO,YES,YES
+R888,Delhi-NCR,28,3,Good,Laptop/Desktop,2,1,8,4,Instagram,1,3,Remain Constant,NO,YES,YES
+R889,Outside Delhi-NCR,16,5,Very poor,Smartphone,1,0,10,3,Whatsapp,0,2,Decreased,NO,NO,NO
+R890,Delhi-NCR,20,2,Average,Smartphone,3,0,12,7,Instagram,1.5,4,Decreased,YES,NO,NO
+R891,Outside Delhi-NCR,21,2,Very poor,Smartphone,4,0,8,1,Whatsapp,2,3,Increased,YES,NO,NO
+R892,Delhi-NCR,19,4,Average,Laptop/Desktop,3,2,7,4,Instagram,0,3,Decreased,NO,NO,YES
+R893,Delhi-NCR,20,6,Average,Laptop/Desktop,2,1,8,2,Instagram,1,3,Remain Constant,NO,YES,YES
+R894,Outside Delhi-NCR,14,2,Good,Smartphone,2,1,8,3,Whatsapp,1,3,Increased,NO,NO,YES
+R895,Outside Delhi-NCR,26,1,Average,Smartphone,3,1,8,4,Youtube,0,3,Decreased,YES,NO,YES
+R896,Delhi-NCR,21,3,Very poor,Laptop/Desktop,2,0,8,6,Instagram,5,4,Increased,NO,NO,YES
+R897,Outside Delhi-NCR,34,1,Good,Smartphone,3,0.5,7,0,None,1,1,Remain Constant,NO,NO,NO
+R898,Delhi-NCR,19,5,Very poor,Smartphone,2,0,6,3,Instagram,0,1,Increased,NO,NO,YES
+R899,Delhi-NCR,19,8,Very poor,Laptop/Desktop,2,1,6,2,Whatsapp,0,3,Remain Constant,NO,NO,NO
+R900,Outside Delhi-NCR,21,7,Good,Any Gadget,7,0,10,3,Whatsapp,0,3,Remain Constant,NO,YES,YES
+R901,Outside Delhi-NCR,23,4,Very poor,Laptop/Desktop,1,0,7,8,Facebook,2,3,Decreased,NO,NO,YES
+R902,Delhi-NCR,19,5,Very poor,Smartphone,2,0,7,3,Instagram,0,3,Increased,NO,YES,YES
+R903,Delhi-NCR,27,1,Average,Laptop/Desktop,2,0,8,3,Instagram,2,3,Increased,NO,YES,YES
+R904,Outside Delhi-NCR,33,3,Average,Smartphone,1,0,6,1,Whatsapp,4,2,Decreased,YES,NO,YES
+R905,Outside Delhi-NCR,21,5,Average,Smartphone,3,1,11,3,Youtube,2,3,Remain Constant,NO,NO,NO
+R906,Outside Delhi-NCR,21,2,Very poor,Smartphone,3,0,8,4,Whatsapp,1,3,Remain Constant,NO,NO,NO
+R907,Outside Delhi-NCR,24,0,Very poor,Smartphone,1,0,5,4,Linkedin,6,3,Decreased,YES,NO,YES
+R908,Outside Delhi-NCR,23,0,Good,Laptop/Desktop,0,0,8,3,Youtube,0,1,Remain Constant,NO,NO,NO
+R909,Delhi-NCR,20,5,Good,Laptop/Desktop,1,1,8,1,Instagram,1,4,Decreased,NO,YES,YES
+R910,Outside Delhi-NCR,29,10,Good,Laptop/Desktop,7,1,6,7,Whatsapp,2,2,Remain Constant,NO,YES,YES
+R911,Outside Delhi-NCR,20,4,Average,Laptop/Desktop,1,1,10,5,Instagram,0.3,3,Decreased,NO,YES,YES
+R912,Delhi-NCR,21,1,Good,Smartphone,5,0,7,2,Linkedin,2,2,Remain Constant,NO,NO,NO
+R913,Outside Delhi-NCR,21,6,Average,Laptop/Desktop,2,1,8,5,Instagram,2,2,Increased,NO,NO,YES
+R914,Delhi-NCR,19,7,Average,Laptop/Desktop,1,1,5,6,Instagram,1,3,Remain Constant,NO,NO,YES
+R915,Delhi-NCR,19,5,Average,Smartphone,6,2,5,4,Instagram,0,3,Remain Constant,NO,YES,YES
+R916,Delhi-NCR,39,2,Excellent,Tablet,1,1,7,1,Whatsapp,0.5,3,Remain Constant,NO,NO,YES
+R917,Outside Delhi-NCR,20,3,Average,Smartphone,2,0,8,1,Facebook,1,3,Remain Constant,NO,NO,YES
+R918,Delhi-NCR,19,5,Average,Laptop/Desktop,2,0.5,8,2,Whatsapp,1,3,Increased,NO,NO,YES
+R919,Outside Delhi-NCR,23,2,Average,Laptop/Desktop,6,2,7,4,Facebook,2,4,Remain Constant,NO,YES,YES
+R920,Outside Delhi-NCR,21,5,Average,Laptop/Desktop,2,0,10,2,Whatsapp,0.5,3,Increased,NO,YES,NO
+R921,Outside Delhi-NCR,10,5,Average,Laptop/Desktop,2,1,9,1.5,Whatsapp,1,4,Increased,NO,YES,YES
+R922,Delhi-NCR,14,5,Average,Tablet,1,1,9,1,Youtube,4,3,Increased,NO,YES,YES
+R923,Outside Delhi-NCR,9,5,Excellent,Smartphone or Laptop/Desktop,2,0.6,7,1,Whatsapp,0,4,Remain Constant,NO,YES,YES
+R924,Outside Delhi-NCR,22,4,Average,Laptop/Desktop,3,1,7,1,Twitter,2,3,Decreased,NO,YES,YES
+R925,Outside Delhi-NCR,13,4,Good,Laptop/Desktop,2,0,10,3,Youtube,0,4,Remain Constant,NO,NO,YES
+R926,Delhi-NCR,23,2,Very poor,Smartphone,2,1,6,3,Whatsapp,0,3,Increased,NO,NO,NO
+R927,Delhi-NCR,13,5,Very poor,Smartphone,1,0.6,7,4,Youtube,2,4,Decreased,NO,NO,YES
+R928,Outside Delhi-NCR,21,1,Good,Laptop/Desktop,3,1,10,3,Instagram,1,3,Increased,NO,YES,YES
+R929,Outside Delhi-NCR,34,3,Average,Smartphone,6,0,6,1,Whatsapp,1,3,Remain Constant,NO,YES,YES
+R930,Delhi-NCR,14,9,Good,Smartphone,2,1,9,1,Instagram,0,2,Remain Constant,NO,YES,YES
+R931,Delhi-NCR,32,2,Average,Smartphone,2,1,6,1,Youtube,0,1,Remain Constant,NO,YES,YES
+R932,Outside Delhi-NCR,21,3,Average,Smartphone,2,1,8,6,Whatsapp,3,2,Remain Constant,NO,NO,YES
+R933,Delhi-NCR,19,3,Excellent,Smartphone,0,1,6,4,Facebook,1,3,Remain Constant,NO,YES,NO
+R934,Outside Delhi-NCR,14,5,Average,Tablet,3,1,6,4,Youtube,0,2,Increased,YES,YES,YES
+R935,Delhi-NCR,22,1,Average,Smartphone,1,0,9,3,Instagram,0,3,Increased,NO,YES,YES
+R936,Outside Delhi-NCR,26,9,Very poor,Laptop/Desktop,2,0,5,3,Linkedin,1,3,Increased,NO,YES,YES
+R937,Outside Delhi-NCR,21,2,Very poor,Smartphone,2,0,7,1,Youtube,1,3,Remain Constant,YES,NO,YES
+R938,Delhi-NCR,22,1,Very poor,Laptop/Desktop,6,0,6,2,Whatsapp,0,2,Increased,YES,YES,YES
+R939,Outside Delhi-NCR,21,2,Average,Laptop/Desktop,3,1,8,6,Instagram,2,3,Remain Constant,NO,YES,YES
+R940,Outside Delhi-NCR,40,5,Excellent,Laptop/Desktop,4,1,7,6,Linkedin,2,3,Remain Constant,NO,YES,YES
+R941,Outside Delhi-NCR,15,2,Good,Laptop/Desktop,2,0,11,5,Youtube,0,3,Remain Constant,NO,NO,YES
+R942,Delhi-NCR,16,3,Average,Smartphone,3,0,10,5,Instagram,3,4,Remain Constant,NO,NO,YES
+R943,Outside Delhi-NCR,20,4,Very poor,Smartphone,3,1,8,5,Youtube,2,4,Increased,NO,YES,YES
+R944,Outside Delhi-NCR,22,2,Very poor,Laptop/Desktop,1,0,8,4,Whatsapp,0,2,Remain Constant,NO,NO,YES
+R945,Outside Delhi-NCR,22,4,Average,Laptop/Desktop,6,0,8,5,Instagram,1,3,Increased,NO,NO,YES
+R946,Delhi-NCR,23,2,Good,Smartphone,7,0,7,4,Instagram,1,4,Increased,NO,NO,YES
+R947,Delhi-NCR,21,4,Good,Laptop/Desktop,10,1,7,3,Whatsapp,0,3,Remain Constant,YES,NO,YES
+R948,Outside Delhi-NCR,17,3,Average,Smartphone,2,1,8,5,Whatsapp,3.5,1,Remain Constant,NO,YES,YES
+R949,Delhi-NCR,24,0,Average,Laptop/Desktop,10,1,8,1,Whatsapp,0,3,Increased,NO,YES,YES
+R950,Delhi-NCR,19,1,Average,Smartphone,0,0,8,6,Instagram,2,2,Decreased,YES,NO,NO
+R951,Delhi-NCR,23,10,Average,Laptop/Desktop,1,0,8,8,Youtube,1,3,Decreased,NO,YES,YES
+R952,Delhi-NCR,21,6,Average,Smartphone,2,1,7,3,Whatsapp,1,3,Decreased,NO,YES,YES
+R953,Delhi-NCR,14,6,Good,Tablet,2,0,8.3,1,Youtube,2.5,3,Increased,NO,NO,YES
+R954,Outside Delhi-NCR,14,3,Good,Smartphone,1,0,8,3,Youtube,1,4,Remain Constant,NO,NO,YES
+R955,Delhi-NCR,23,2,Average,Laptop/Desktop,6,1,7,2,Linkedin,1,3,Increased,NO,NO,YES
+R956,Delhi-NCR,21,0,NA,NA,1,1,11,8,Instagram,3,3,Increased,NO,NO,YES
+R957,Outside Delhi-NCR,33,2,Average,Smartphone,1,0,6,1,Whatsapp,0.5,2,Remain Constant,NO,NO,YES
+R958,Delhi-NCR,11,4,Good,Smartphone,2,0,9,1,Whatsapp,0,3,Remain Constant,NO,YES,YES
+R959,Delhi-NCR,20,3,Good,Laptop/Desktop,2,1,10,2,Instagram,0,4,Increased,NO,YES,YES
+R960,Outside Delhi-NCR,23,2,Average,Smartphone,2,0.3,8,1,Whatsapp,N,3,Decreased,NO,YES,YES
+R961,Delhi-NCR,20,0,NA,NA,2,0,7,0.5,Twitter,2,2,Remain Constant,NO,NO,YES
+R962,Delhi-NCR,18,0,Poor,Smartphone,0,2,12,1,Twitter,0,7,Increased,NO,NO,YES
+R963,Delhi-NCR,21,4,Average,Smartphone,8,0,6,1,Youtube,0,2,Decreased,YES,NO,NO
+R964,Delhi-NCR,38,2,Very poor,Laptop/Desktop,4,0,7,3,Whatsapp,1,3,Increased,NO,NO,NO
+R965,Delhi-NCR,20,5,Good,Laptop/Desktop,5,0,8,3,Youtube,0,2,Remain Constant,NO,YES,NO
+R966,Delhi-NCR,21,0,NA,NA,6,1,9,2,Whatsapp,0.5,4,Increased,NO,YES,YES
+R967,Delhi-NCR,11,2,Excellent,Smartphone,1,0,10,3,Youtube,2,3,Increased,NO,YES,YES
+R968,Outside Delhi-NCR,22,0,Good,Laptop/Desktop,4,1,7,3,Instagram,0,3,Increased,NO,NO,YES
+R969,Delhi-NCR,23,0,NA,NA,2,2,10,6,Youtube,0,2,Remain Constant,NO,YES,NO
+R970,Delhi-NCR,21,8,Very poor,Laptop/Desktop,1,1,9,2,Instagram,0,3,Remain Constant,YES,NO,NO
+R971,Delhi-NCR,26,0,Very poor,Smartphone,0,0,12,2,Linkedin,2,2,Remain Constant,YES,NO,NO
+R972,Outside Delhi-NCR,23,2,Very poor,Laptop/Desktop,1,1,7.5,1,Whatsapp,2,3,Remain Constant,NO,YES,YES
+R973,Delhi-NCR,19,3,Average,Smartphone,5,1,6,1,Youtube,0,2,Remain Constant,NO,YES,YES
+R974,Delhi-NCR,21,5,Average,Smartphone,3,1,8,4,Youtube,0,4,Remain Constant,YES,NO,NO
+R975,Delhi-NCR,20,4,Very poor,Laptop/Desktop,3,0,9,2,Instagram,1,2,Remain Constant,NO,YES,NO
+R976,Outside Delhi-NCR,19,1,Good,Laptop/Desktop,2,0,8,1,Whatsapp,0.3,3,Remain Constant,NO,NO,YES
+R977,Outside Delhi-NCR,20,4,Very poor,Smartphone,2,0,10,1,Instagram,0,3,Decreased,NO,NO,NO
+R978,Delhi-NCR,19,2,Average,Laptop/Desktop,3,0.5,8,2,Instagram,1,3,Increased,NO,NO,NO
+R979,Delhi-NCR,17,4,Good,Laptop/Desktop,2,1,10,6,Whatsapp,4,4,Increased,NO,YES,YES
+R980,Delhi-NCR,20,10,Very poor,Laptop/Desktop,2,1,8,5,Instagram,0,3,Remain Constant,NO,NO,NO
+R981,Outside Delhi-NCR,20,4,Good,Smartphone,2,1,8,2,Instagram,0.1,4,Remain Constant,NO,YES,YES
+R982,Outside Delhi-NCR,27,4,Average,Smartphone,2,0,7,8,Youtube,4,3,Increased,NO,NO,YES
+R983,Delhi-NCR,18,7,Very poor,Smartphone,4,0,9,2,Instagram,0,2,Decreased,NO,NO,YES
+R984,Outside Delhi-NCR,18,8,Good,Smartphone,2,0.25,7,1.5,Instagram,1,3,Increased,NO,NO,NO
+R985,Outside Delhi-NCR,19,6,Average,Smartphone,4,1,6,5,Whatsapp,2,3,Remain Constant,NO,NO,NO
+R986,Delhi-NCR,18,5,Very poor,Smartphone,0,0,7,1,Instagram,0.5,3,Decreased,NO,YES,NO
+R987,Outside Delhi-NCR,20,4,Good,Smartphone,2,1,8,2,Instagram,0.1,4,Remain Constant,NO,YES,YES
+R988,Outside Delhi-NCR,19,6,Very poor,Laptop/Desktop,2,0,8,2,Instagram,0,3,Increased,NO,NO,NO
+R989,Delhi-NCR,19,6,Average,Laptop/Desktop,5,1,7,3,Instagram,0.3,4,Increased,NO,YES,YES
+R990,Delhi-NCR,18,8,Very poor,Smartphone,0,1,6,5,Whatsapp,0,2,Decreased,NO,NO,YES
+R991,Delhi-NCR,18,4,Very poor,Smartphone,0,1,8,2,Instagram,0.3,3,Remain Constant,NO,YES,YES
+R992,Delhi-NCR,19,8,Good,Smartphone,2,2,8,5,Instagram,1,2,Decreased,YES,NO,YES
+R993,Delhi-NCR,26,1,Average,Smartphone,1,0,8,3,Facebook,0,3,Increased,NO,NO,YES
+R994,Outside Delhi-NCR,18,8,Average,Smartphone,3,1,5,4,Youtube,2,2,Decreased,NO,NO,NO
+R995,Outside Delhi-NCR,19,2,Good,Smartphone,2,1,8,3,Whatsapp,2,1,Decreased,YES,NO,YES
+R996,Outside Delhi-NCR,18,5,Average,Smartphone,2,0,6,1,Instagram,0,3,Remain Constant,NO,NO,YES
+R997,Outside Delhi-NCR,21,2,Average,Laptop/Desktop,1,0,12,3,Instagram,0,2,Increased,NO,NO,YES
+R998,Outside Delhi-NCR,19,0,Very poor,Laptop/Desktop,8,0,8,10,Instagram,0,3,Remain Constant,YES,YES,YES
+R999,Outside Delhi-NCR,23,2,Average,Laptop/Desktop,2,2,7,5,Whatsapp,2,2,Remain Constant,NO,NO,YES
+R1000,Outside Delhi-NCR,22,4,Good,Laptop/Desktop,2,0,9,3,Instagram,1,2,Increased,NO,YES,YES
+R1001,Delhi-NCR,19,8,Average,Smartphone,4,0,6,1,Whatsapp,2,2,Remain Constant,NO,NO,YES
+R1002,Outside Delhi-NCR,19,6,Good,Laptop/Desktop,2,0,8,10,Instagram,0,4,Increased,NO,NO,YES
+R1004,Delhi-NCR,18,6,Very poor,Smartphone,4,0,7,3,Instagram,0.3,4,Decreased,NO,YES,YES
+R1005,Outside Delhi-NCR,12,0,Excellent,Smartphone,3,1,8,1,Whatsapp,2,2,Increased,NO,YES,YES
+R1006,Outside Delhi-NCR,18,5,Good,Smartphone,3,2,8,3,Youtube,0,3,Remain Constant,NO,NO,YES
+R1007,Delhi-NCR,19,4,Very poor,Laptop/Desktop,3,0,8,2,Youtube,0,3,Remain Constant,NO,YES,NO
+R1008,Delhi-NCR,19,6,Average,Laptop/Desktop,2,2,6,3,Instagram,0.3,2,Increased,NO,NO,YES
+R1009,Delhi-NCR,20,3,Very poor,Laptop/Desktop,2,0,7,3,Instagram,0,4,Decreased,YES,NO,NO
+R1010,Outside Delhi-NCR,26,4,Very poor,Smartphone,2,0,7,2,Instagram,0,3,Increased,NO,NO,YES
+R1011,Outside Delhi-NCR,20,3,Very poor,Laptop/Desktop,2,1,8,1,Whatsapp,1,4,Increased,NO,NO,YES
+R1012,Outside Delhi-NCR,23,4,Good,Smartphone,2,1,7,3,Linkedin,1,3,Remain Constant,YES,YES,YES
+R1013,Delhi-NCR,26,4,Very poor,Smartphone,3,1,7,2,Youtube,1,3,Remain Constant,NO,NO,NO
+R1014,Delhi-NCR,19,4,Average,Laptop/Desktop,2,0.5,8,2,Whatsapp,1,2,Remain Constant,NO,NO,NO
+R1015,Outside Delhi-NCR,22,0,Good,Laptop/Desktop,2,1,9,2,Instagram,2,2,Remain Constant,NO,YES,YES
+R1016,Outside Delhi-NCR,23,3,Average,Smartphone,4,1,8,3,Whatsapp,2,3,Remain Constant,NO,YES,NO
+R1017,Delhi-NCR,20,2,Good,Smartphone,3,1,6,2,Whatsapp,3,2,Remain Constant,NO,NO,YES
+R1018,Outside Delhi-NCR,29,5,Average,Laptop/Desktop,3,1,8,2,Linkedin,2,3,Remain Constant,NO,YES,YES
+R1019,Outside Delhi-NCR,28,5,Good,Laptop/Desktop,4,1,10,2,Whatsapp,1,3,Remain Constant,NO,YES,YES
+R1020,Delhi-NCR,32,3,Average,Laptop/Desktop,2,0,6,2,Whatsapp,0.3,3,Increased,YES,YES,YES
+R1021,Outside Delhi-NCR,21,0,Poor,Smartphone,1,2,7,2,Instagram,0.5,4,Decreased,NO,YES,YES
+R1022,Outside Delhi-NCR,24,1,Good,Smartphone,3,2,8,2,Youtube,0,2,Remain Constant,NO,YES,YES
+R1023,Delhi-NCR,25,0,Good,Laptop/Desktop,4,1,8,2,Whatsapp,0,2,Remain Constant,YES,NO,YES
+R1024,Delhi-NCR,32,4,Average,Laptop/Desktop,4,1,6,0.3,Whatsapp,0,3,Remain Constant,NO,YES,YES
+R1025,Delhi-NCR,35,1,Good,Smartphone,3,1,7,2,Whatsapp,0,2,Remain Constant,NO,YES,YES
+R1026,Delhi-NCR,27,0,Good,Smartphone,2,0,8,2,Youtube,2,3,Remain Constant,NO,NO,YES
+R1027,Delhi-NCR,36,3,Average,Laptop/Desktop,2,0,10,2,Youtube,0,3,Increased,NO,NO,NO
+R1028,Delhi-NCR,22,5,Very poor,Laptop/Desktop,1,1,8,1,Twitter,0.5,3,Decreased,YES,YES,YES
+R1029,Delhi-NCR,20,6,Good,Laptop/Desktop,4,1,6,1,Instagram,0,3,Increased,NO,YES,YES
+R1030,Outside Delhi-NCR,16,4,Very poor,Smartphone,2,0,9,2,Youtube,0,2,Remain Constant,NO,NO,YES
+R1031,Outside Delhi-NCR,38,2,Average,Laptop/Desktop,3,1,5,3,Whatsapp,0,3,Increased,NO,YES,NO
+R1032,Delhi-NCR,24,2,Good,Smartphone,0,1,9,5,Instagram,3,4,Increased,NO,YES,YES
+R1033,Outside Delhi-NCR,25,0,Very poor,Smartphone,2,0,7,5,Facebook,0,3,Remain Constant,NO,NO,YES
+R1034,Outside Delhi-NCR,20,2,Very poor,Smartphone,8,1,6,1,Youtube,0,3,Remain Constant,NO,YES,YES
+R1035,Delhi-NCR,22,2,Very poor,Smartphone,1,0,9,3,Youtube,2,2,Decreased,YES,NO,YES
+R1036,Delhi-NCR,23,4,Average,Smartphone,3,1,8,2,Whatsapp,0,4,Remain Constant,NO,NO,YES
+R1037,Outside Delhi-NCR,24,2,Very poor,Smartphone,6,0,12,4,Twitter,0,4,Remain Constant,NO,NO,YES
+R1038,Delhi-NCR,20,0,Average,Smartphone,0,2,9,2,Youtube,0.5,3,Remain Constant,NO,NO,YES
+R1040,Outside Delhi-NCR,20,5,Average,Laptop/Desktop,4,1,8,1.5,Instagram,1,3,Increased,NO,NO,YES
+R1041,Outside Delhi-NCR,19,3,Very poor,Laptop/Desktop,3,0,8,3,Whatsapp,0,3,Remain Constant,YES,NO,NO
+R1042,Outside Delhi-NCR,18,4,Very poor,Laptop/Desktop,1,1,10,3,Whatsapp,1,4,Increased,NO,NO,NO
+R1043,Outside Delhi-NCR,20,5,Very poor,Laptop/Desktop,3,0.5,10,3,Whatsapp,2,3,Increased,NO,YES,NO
+R1044,Outside Delhi-NCR,21,6,Good,Laptop/Desktop,4,1,8,2,Whatsapp,0.5,3,Remain Constant,NO,YES,YES
+R1045,Outside Delhi-NCR,20,2,Very poor,Laptop/Desktop,1,0,6,1,Twitter,2,3,Decreased,NO,NO,NO
+R1046,Outside Delhi-NCR,20,2,Good,Smartphone,2,1,8,2,Instagram,3,3,Decreased,NO,YES,YES
+R1047,Outside Delhi-NCR,21,4,Excellent,Laptop/Desktop,2,0,8,0.5,Whatsapp,4,3,Increased,YES,YES,YES
+R1048,Delhi-NCR,22,2,Average,Laptop/Desktop,2,1,8,3,Whatsapp,0.5,3,Remain Constant,NO,NO,NO
+R1049,Delhi-NCR,22,2,Very poor,Smartphone,3,1,10,4,Instagram,2,4,Remain Constant,NO,NO,YES
+R1050,Delhi-NCR,21,0,Poor,Smartphone,1,0,7,0,Whatsapp,0,2,Increased,NO,YES,YES
+R1051,Delhi-NCR,19,4,Very poor,Laptop/Desktop,3,0,10,4,Youtube,N,2,Increased,YES,NO,NO
+R1052,Delhi-NCR,18,2,Average,Smartphone,2,1,8,1.3,Instagram,2,4,Remain Constant,NO,NO,YES
+R1053,Delhi-NCR,20,3,Very poor,Smartphone,2,0,6,3,Instagram,0,2,Increased,NO,YES,NO
+R1054,Delhi-NCR,20,3,Average,Smartphone,3,1,11,3,Facebook,0,3,Remain Constant,NO,NO,YES
+R1055,Outside Delhi-NCR,18,0,Good,Smartphone,3,1,7,2,Instagram,1,4,Remain Constant,NO,YES,YES
+R1056,Delhi-NCR,31,8,Very poor,Laptop/Desktop,1,0,8,2,Whatsapp,1,2,Remain Constant,NO,NO,YES
+R1057,Delhi-NCR,18,6,Very poor,Laptop/Desktop,2,0,8,1,Instagram,0.5,2,Increased,NO,NO,YES
+R1058,Outside Delhi-NCR,23,2,Good,Smartphone,1,1,5,2,None,1,2,Decreased,NO,YES,YES
+R1059,Outside Delhi-NCR,20,3,Average,Laptop/Desktop,2,0,9,5,Youtube,0,4,Increased,NO,NO,NO
+R1060,Delhi-NCR,33,4,Average,Smartphone,2,1,6,4,Youtube,1,3,Increased,YES,YES,YES
+R1061,Delhi-NCR,24,2,Average,Smartphone,4,0,6,3,Instagram,0,4,Increased,NO,NO,YES
+R1062,Outside Delhi-NCR,17,5,Very poor,Laptop/Desktop,0.5,0.3,7.5,0.5,Youtube,0.3,3,Remain Constant,NO,YES,NO
+R1063,Outside Delhi-NCR,15,4,Average,Laptop/Desktop,3,0,8,2,Instagram,1,3,Remain Constant,NO,YES,YES
+R1064,Outside Delhi-NCR,17,4,Average,Laptop/Desktop,5,2,7,0.4,Youtube,0.5,3,Remain Constant,NO,NO,YES
+R1065,Outside Delhi-NCR,16,4,Excellent,Smartphone or Laptop/Desktop,3,1,8,5,Youtube,5,3,Increased,NO,NO,NO
+R1066,Outside Delhi-NCR,15,8,Average,Tablet,4,0,5,2,Youtube,1,3,Remain Constant,NO,YES,NO
+R1067,Outside Delhi-NCR,16,8,Good,Smartphone,5,0,9,1,Youtube,0,2,Increased,NO,NO,NO
+R1068,Outside Delhi-NCR,16,5,Average,Laptop/Desktop,2,1,10,1,None,2,4,Increased,NO,YES,YES
+R1069,Outside Delhi-NCR,15,7,Good,Smartphone,3,2,6,0,Whatsapp,1,3,Remain Constant,NO,NO,YES
+R1070,Outside Delhi-NCR,16,5,Very poor,Smartphone,1,2,10,1.5,Instagram,0,3,Remain Constant,NO,NO,NO
+R1071,Delhi-NCR,16,4,Very poor,Smartphone,4,1,7,2,Instagram,0,3,Remain Constant,NO,NO,YES
+R1072,Delhi-NCR,16,7,Good,Tablet,3,0,8,0.5,Whatsapp,0,2,Decreased,NO,NO,NO
+R1073,Outside Delhi-NCR,30,2,Very poor,Laptop/Desktop,0,1,8,1,Youtube,8,4,Increased,NO,NO,NO
+R1074,Outside Delhi-NCR,16,5,Very poor,Smartphone,2,0.5,7,1,Youtube,2,3,Remain Constant,NO,NO,YES
+R1075,Delhi-NCR,15,5,Average,Laptop/Desktop,4,1,8,2,Whatsapp,1,3,Remain Constant,NO,YES,YES
+R1076,Delhi-NCR,16,4,Average,Laptop/Desktop,8,1,8,0.5,Youtube,0.5,4,Decreased,NO,YES,YES
+R1077,Delhi-NCR,15,4,Very poor,Laptop/Desktop,4,0,5,4,Youtube,0,3,Decreased,NO,NO,NO
+R1078,Delhi-NCR,15,4,Good,Smartphone,4,1,7,2,Youtube,1,4,Remain Constant,NO,YES,YES
+R1079,Delhi-NCR,15,8,Very poor,Smartphone,2,0,8,1,Youtube,0,3,Increased,NO,NO,YES
+R1080,Delhi-NCR,16,7,Good,Smartphone,2,0,8,0.5,Youtube,1.5,3,Remain Constant,NO,NO,YES
+R1081,Delhi-NCR,15,3,Average,Smartphone,4,0.5,7,1,Instagram,1.5,4,Increased,NO,YES,YES
+R1082,Outside Delhi-NCR,16,8,Average,Laptop/Desktop,1,0.3,8,0,Telegram,0,2,Increased,YES,NO,NO
+R1083,Delhi-NCR,16,7,Average,Laptop/Desktop,3,0,8,3,Youtube,2,2,Remain Constant,NO,NO,NO
+R1084,Delhi-NCR,15,4,Average,Laptop/Desktop,4,1,7,1,Whatsapp,1.5,3,Remain Constant,NO,YES,YES
+R1085,Delhi-NCR,16,8,Average,Laptop/Desktop,8,0,7,2,Whatsapp,0,3,Remain Constant,NO,NO,NO
+R1087,Delhi-NCR,15,5,Excellent,Laptop/Desktop,4,0.5,8,0,None,1,3,Remain Constant,NO,YES,YES
+R1088,Delhi-NCR,16,8,Average,Smartphone,4,0,5,8,Whatsapp,3,3,Remain Constant,NO,YES,YES
+R1089,Delhi-NCR,16,8,Good,Laptop/Desktop,4,0,7,2,Whatsapp,0,2,Increased,NO,NO,YES
+R1090,Delhi-NCR,16,4,Good,Smartphone,4,1,7,2,Whatsapp,1,2,Remain Constant,NO,YES,YES
+R1091,Delhi-NCR,16,7,Good,Smartphone,3,0,7,2,Instagram,1,2,Increased,NO,NO,YES
+R1092,Delhi-NCR,16,6,Average,Laptop/Desktop,1,0.5,9,1,Whatsapp,1,2,Decreased,NO,NO,YES
+R1093,Delhi-NCR,17,6,Average,Smartphone,1,0,8,1,Reddit,0,2,Remain Constant,NO,NO,NO
+R1094,Delhi-NCR,16,8,Very poor,Smartphone,5,1,8,1,Facebook,1,3,Remain Constant,NO,YES,YES
+R1095,Delhi-NCR,16,4,Average,Laptop/Desktop,1,1,9,2,Youtube,0.4,4,Remain Constant,NO,YES,NO
+R1096,Delhi-NCR,15,9,Excellent,Laptop/Desktop,10,0.5,6,0,Whatsapp,2,3,Remain Constant,NO,NO,YES
+R1097,Delhi-NCR,17,3,Very poor,Smartphone,6,0,8,2,Youtube,0,3,Remain Constant,NO,YES,YES
+R1098,Delhi-NCR,16,6,Very poor,Smartphone,3,1,10,1,Youtube,0.5,3,Remain Constant,NO,YES,YES
+R1099,Delhi-NCR,16,8,Average,Laptop/Desktop,0,0,6,6,Instagram,0,3,Remain Constant,NO,NO,NO
+R1100,Delhi-NCR,16,8,Average,Laptop/Desktop,1,0,8,1,Youtube,2,2,Remain Constant,NO,YES,YES
+R1101,Delhi-NCR,15,5,Very poor,Smartphone,3,1,9,3,Instagram,0,3,Decreased,NO,YES,YES
+R1102,Delhi-NCR,16,4,Good,Smartphone,3,1,8,1,Whatsapp,1,4,Remain Constant,NO,YES,NO
+R1103,Delhi-NCR,17,4,Very poor,Laptop/Desktop,0,1,7,1,Youtube,3,4,Increased,NO,NO,NO
+R1104,Delhi-NCR,25,5,Average,Laptop/Desktop,1,3,6,5,Instagram,0,3,Decreased,NO,YES,YES
+R1105,Delhi-NCR,20,0,Very poor,Smartphone,6,1,9,3,Youtube,0,3,Increased,NO,YES,YES
+R1106,Delhi-NCR,16,5,Very poor,Smartphone,2,1,8,1,Whatsapp,4,2,Increased,NO,NO,YES
+R1107,Delhi-NCR,16,4,Very poor,Smartphone,5,1,7,1,Instagram,1,3,Increased,NO,YES,NO
+R1108,Delhi-NCR,15,5,Good,Laptop/Desktop,2,2,6,0.5,Whatsapp,2,3,Remain Constant,NO,NO,NO
+R1109,Delhi-NCR,16,4,Very poor,Smartphone,2,2,6,5,Youtube,0,4,Increased,NO,NO,YES
+R1110,Delhi-NCR,24,6,Average,Smartphone,6,0,7,2,Youtube,No tv,3,Decreased,NO,YES,NO
+R1111,Delhi-NCR,16,5,Excellent,Smartphone,1,1,11,0,Whatsapp,2,3,Remain Constant,NO,NO,YES
+R1112,Delhi-NCR,16,5,Average,Laptop/Desktop,4,0,6,1,Instagram,0,3,Remain Constant,NO,YES,YES
+R1113,Delhi-NCR,16,5,Average,Smartphone,2,1,10,1,Whatsapp,0.5,3,Remain Constant,NO,NO,YES
+R1114,Outside Delhi-NCR,15,6,Average,Smartphone,1,1,9,1,Instagram,2,3,Decreased,NO,YES,YES
+R1115,Outside Delhi-NCR,17,2,Very poor,Tablet,8,3,5,0,Youtube,1,4,Increased,NO,NO,YES
+R1116,Delhi-NCR,16,5,Average,Laptop/Desktop,8,2,5,2,Youtube,0,4,Remain Constant,NO,YES,YES
+R1117,Delhi-NCR,12,5,Good,Tablet,1,0,7,4,Youtube,0,2,Increased,NO,YES,YES
+R1118,Delhi-NCR,14,4,Excellent,Smartphone,2,1,9,1,Whatsapp,2,3,Remain Constant,NO,YES,YES
+R1119,Outside Delhi-NCR,13,4,Excellent,Smartphone,3,0.25,8,1,Youtube,0.5,1,Increased,NO,YES,YES
+R1120,Outside Delhi-NCR,12,5,Good,Smartphone,5,0,6,1,Youtube,2,2,Remain Constant,NO,YES,YES
+R1121,Delhi-NCR,15,6,Average,Smartphone,11,0.25,7,5,Youtube,0,4,Increased,NO,YES,YES
+R1122,Delhi-NCR,13,5,Excellent,Tablet,4,1,8,0,Youtube,0.5,4,Remain Constant,NO,YES,NO
+R1123,Outside Delhi-NCR,12,4,Good,Tablet,1,1,9,1,Youtube,3,3,Increased,NO,NO,YES
+R1124,Outside Delhi-NCR,13,6,Good,Smartphone,2,2,6,1,Youtube,1,1,Decreased,NO,YES,YES
+R1125,Delhi-NCR,16,4,Good,Laptop/Desktop,1,1,7,1,Instagram,3,2,Remain Constant,NO,YES,YES
+R1126,Delhi-NCR,12,4,Excellent,Smartphone,2,1,6,0,Youtube,2,2,Remain Constant,YES,YES,YES
+R1127,Delhi-NCR,14,4,Good,Smartphone,3.5,0,9,2,Youtube,3,3,Remain Constant,NO,YES,YES
+R1128,Delhi-NCR,13,8,Good,Smartphone,3,1,13,1,Whatsapp,2,2,Increased,NO,NO,YES
+R1129,Delhi-NCR,13,6,Average,Laptop/Desktop,2,0,5,1,Youtube,0,3,Remain Constant,NO,NO,NO
+R1130,Delhi-NCR,14,6,Average,Laptop/Desktop,8,1,8,1,Youtube,0.1,2,Remain Constant,NO,NO,NO
+R1131,Delhi-NCR,14,4,Average,Smartphone,0,1,9,3,Youtube,1,3,Remain Constant,NO,YES,YES
+R1132,Delhi-NCR,14,6,Good,Smartphone,3,1,7,1,Whatsapp,1,4,Remain Constant,NO,YES,YES
+R1133,Delhi-NCR,14,6,Average,Smartphone,2,1,4,1,Youtube,2,3,Remain Constant,NO,YES,NO
+R1134,Delhi-NCR,14,4,Excellent,Smartphone,2,2,12,1,Whatsapp,2,3,Decreased,NO,YES,YES
+R1135,Outside Delhi-NCR,13,5,Good,Tablet,4,1,8,1,Youtube,0,2,Decreased,NO,YES,NO
+R1136,Delhi-NCR,18,7,Average,Smartphone,4,0,6,1,Whatsapp,0,2,Remain Constant,NO,NO,NO
+R1137,Delhi-NCR,13,3,Good,Tablet,4,1,7,1,Youtube,3,3,Increased,NO,NO,YES
+R1138,Delhi-NCR,14,6,Average,Smartphone,3,1,10,1,Whatsapp,2,4,Remain Constant,NO,YES,YES
+R1139,Delhi-NCR,13,3,Very poor,Smartphone,1,2,7,3,Youtube,2,3,Remain Constant,NO,NO,YES
+R1140,Delhi-NCR,13,4,Average,Smartphone,2,1,8,2,Youtube,5,3,Remain Constant,NO,NO,YES
+R1141,Delhi-NCR,12,5.5,Good,Smartphone,2,1,7,3,Youtube,1,2,Remain Constant,NO,YES,YES
+R1142,Delhi-NCR,11,4,Excellent,Smartphone,2,0,11,1,Whatsapp,2,2,Remain Constant,NO,YES,YES
+R1143,Delhi-NCR,12,6,Excellent,Tablet,2,0.5,9,1,Whatsapp,1,3,Increased,NO,YES,YES
+R1144,Delhi-NCR,13,2,Good,Smartphone,2,1,6,1,Whatsapp,0,2,Decreased,NO,NO,YES
+R1145,Delhi-NCR,14,6,Good,Laptop/Desktop,3,1,6,1,Youtube,1,3,Remain Constant,NO,YES,YES
+R1146,Delhi-NCR,16,4,Average,Smartphone,2,0,5,1,Youtube,1,3,Increased,NO,YES,NO
+R1147,Delhi-NCR,10,4,Good,Smartphone,2,1,7,0,None,1,3,Remain Constant,NO,YES,YES
+R1148,Delhi-NCR,13,5,Excellent,Smartphone,3,1,8,2,Youtube,1,2,Increased,NO,YES,YES
+R1149,Outside Delhi-NCR,12,4,Average,Smartphone,1,1,8,2,Youtube,0.5,2,Remain Constant,NO,YES,YES
+R1150,Delhi-NCR,15,8,Good,Laptop/Desktop,1.5,0.5,8,0.5,Whatsapp,0.3,3,Remain Constant,NO,NO,YES
+R1151,Delhi-NCR,14,5,Average,Smartphone or Laptop/Desktop,2,0,9,0.5,Whatsapp,0.5,4,Increased,YES,YES,YES
+R1152,Delhi-NCR,14,3,Average,Smartphone,1,1,10,1,Whatsapp,2,2,Decreased,NO,YES,YES
+R1153,Delhi-NCR,13,4,Average,Smartphone,1,0,10,1,None,1,2,Remain Constant,NO,NO,YES
+R1154,Delhi-NCR,15,4,Very poor,Smartphone,2,1,9,0.5,Instagram,2,4,Remain Constant,NO,YES,YES
+R1155,Outside Delhi-NCR,17,6,Very poor,Smartphone,3,1,7,1,Instagram,1,2,Decreased,NO,NO,YES
+R1156,Outside Delhi-NCR,22,5,Average,Laptop/Desktop,4,0,8,3,Linkedin,0,2,Increased,NO,NO,YES
+R1157,Outside Delhi-NCR,13,6,Good,Smartphone,2,0,11,1,Whatsapp,0.5,3,Remain Constant,NO,YES,YES
+R1158,Outside Delhi-NCR,11,5,Average,Smartphone,2,1,8,1,Whatsapp,0.5,1,Decreased,NO,YES,NO
+R1159,Delhi-NCR,13,4,Good,Smartphone,1,0.5,7,1,Instagram,2,4,Increased,NO,YES,YES
+R1160,Outside Delhi-NCR,14,5,Excellent,Smartphone,2,0,12,2,Youtube,1,3,Remain Constant,NO,NO,YES
+R1161,Delhi-NCR,12,6,Good,Laptop/Desktop,2,2,8,7,Snapchat,2,3,Remain Constant,NO,YES,YES
+R1162,Delhi-NCR,13,4,Excellent,Laptop/Desktop,4,1,8,0,Whatsapp,1,2,Remain Constant,NO,YES,YES
+R1164,Delhi-NCR,12,4,Good,Smartphone,2,1,8,0,Whatsapp,3,4,Remain Constant,NO,YES,YES
+R1165,Delhi-NCR,12,5,Excellent,Laptop/Desktop,3,1,7,0,None,2,2,Remain Constant,NO,YES,YES
+R1166,Delhi-NCR,13,6,Excellent,Smartphone,7,0,5,0,Youtube,0,3,Remain Constant,NO,YES,NO
+R1167,Outside Delhi-NCR,14,6,Excellent,Laptop/Desktop,1,2,7,1,Whatsapp,1,4,Increased,NO,YES,YES
+R1168,Delhi-NCR,14,6,Good,Smartphone,2,1,8,1,Whatsapp,1,1,Decreased,NO,NO,YES
+R1169,Delhi-NCR,12,6,Excellent,Smartphone,5,1,8,2,Youtube,1,2,Remain Constant,NO,YES,YES
+R1171,Delhi-NCR,14,6,Average,Smartphone,2,0.5,10,1,Whatsapp,1,3,Remain Constant,NO,YES,YES
+R1172,Delhi-NCR,14,3,Excellent,Smartphone,5,2,12,0.25,Whatsapp,0,3,Increased,NO,YES,YES
+R1173,Delhi-NCR,12,4,Excellent,Smartphone,3,2,10,1,WhatsApp,1,4,Increased,NO,YES,YES
+R1174,Delhi-NCR,14,4,Excellent,Smartphone,2,1,6,1,Whatsapp,1,2,Remain Constant,NO,YES,YES
+R1175,Delhi-NCR,13,6,Very poor,Laptop/Desktop,3,1,8,2,Whatsapp,2,3,Decreased,NO,YES,NO
+R1176,Delhi-NCR,12,5,Excellent,Smartphone,2,1,12,0,Youtube,1,3,Remain Constant,NO,YES,YES
+R1177,Delhi-NCR,13,5,Excellent,Laptop/Desktop,4,1,8,1,Whatsapp,1.5,3,Decreased,NO,YES,YES
+R1178,Delhi-NCR,12,4,Very poor,Smartphone,1.5,0,9,5,Youtube,1,4,Increased,NO,NO,YES
+R1179,Delhi-NCR,13,6,Excellent,Laptop/Desktop,2,0.5,9,1,Whatsapp,3,4,Remain Constant,NO,YES,YES
+R1180,Delhi-NCR,12,6,Average,Smartphone,3,1,9,1,Whatsapp,1,4,Remain Constant,NO,NO,YES
+R1181,Delhi-NCR,12,5,Good,Laptop/Desktop,2,0,8,2,Youtube,1,3,Remain Constant,NO,YES,NO
+R1182,Delhi-NCR,13,6,Good,Tablet,2,1,6,1,Youtube,2,3,Decreased,NO,YES,YES
+R1183,Delhi-NCR,16,7.5,Good,Laptop/Desktop,4.5,0,6,0.5,Whatsapp,2,4,Remain Constant,NO,YES,YES
+R1184,Outside Delhi-NCR,13,5,Excellent,Laptop/Desktop,6,1,6,0,Youtube,0,4,Remain Constant,NO,YES,YES
+R1185,Delhi-NCR,13,4,Good,Smartphone,4,1,8,1,Whatsapp,2,3,Decreased,NO,YES,YES
+R1186,Delhi-NCR,15,5,Average,Smartphone,2,1,13,1,Youtube,1,2,Remain Constant,NO,NO,YES
+R1187,Delhi-NCR,12,6,Excellent,Laptop/Desktop,3,1,9,4,Youtube,3,4,Remain Constant,NO,YES,YES
+R1188,Delhi-NCR,13,8,Average,Laptop/Desktop,2,1,7,1,Whatsapp,1,3,Decreased,NO,YES,YES
+R1189,Delhi-NCR,15,5,Good,Tablet,4,1,7,2,Whatsapp,0,4,Increased,NO,NO,YES
+R1190,Delhi-NCR,13,3,Very poor,Smartphone,1,0.5,8,3,Youtube,1,3,Remain Constant,NO,NO,NO
+R1191,Delhi-NCR,12,3,Good,Smartphone,4,1,8,1,Instagram,2,3,Decreased,NO,YES,YES
+R1192,Delhi-NCR,14,6,Average,Smartphone,4,1,9,1,Whatsapp,1,4,Remain Constant,NO,YES,YES
+R1193,Delhi-NCR,13,4,Average,Smartphone,0,0.5,8,3,Youtube,2,4,Decreased,NO,NO,YES
+R1194,Delhi-NCR,14,5,Excellent,Laptop/Desktop,3.5,1,8,0.5,Youtube,1,4,Remain Constant,NO,YES,YES
+R1195,Delhi-NCR,13,5,Good,Tablet,2,0.5,7,1,Whatsapp,1,3,Remain Constant,NO,YES,YES
